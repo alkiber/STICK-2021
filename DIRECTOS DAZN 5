@@ -29,6 +29,22 @@ http://admin-mainpanel.club:8080/Samira/Samira/63100
 http://admin-mainpanel.club:8080/Samira/Samira/63099
 #EXTINF:-1,VIP ES: Dazn (Pruebas)
 http://admin-mainpanel.club:8080/Samira/Samira/63101
+#EXTINF:-1,VIP ES: M. Laliga UHD 4K
+http://admin-mainpanel.club:8080/Samira/Samira/30737
+#EXTINF:-1,VIP ES: M. Campeones UHD 4K
+http://admin-mainpanel.club:8080/Samira/Samira/34560
+#EXTINF:-1,VIP ES: M. Formula 1 UHD 4K
+http://admin-mainpanel.club:8080/Samira/Samira/34561
+#EXTINF:-1,VIP ES: M. Liga De Campeones FHD(Multi-Audio)
+http://admin-mainpanel.club:8080/Samira/Samira/63094
+#EXTINF:-1,VIP ES: M. LaLiga FHD (Multi-Audio)
+http://admin-mainpanel.club:8080/Samira/Samira/63095
+#EXTINF:-1,VIP ES: LaLiga TV Bar FHD (Multi-Audio)
+http://admin-mainpanel.club:8080/Samira/Samira/63097
+#EXTINF:-1,VIP ES: LaLiga TV Bar FHD H265
+http://admin-mainpanel.club:8080/Samira/Samira/63096
+#EXTINF:-1,VIP ES: Sky Sports Premier League FHD
+http://admin-mainpanel.club:8080/Samira/Samira/23071
 #EXTINF:-1,VIP ES: Footters
 http://admin-mainpanel.club:8080/Samira/Samira/63098
 #EXTINF:-1,VIP ES: Dazn & Footters 01 (Eventos)
@@ -151,19 +167,109 @@ http://admin-mainpanel.club:8080/Samira/Samira/63165
 http://admin-mainpanel.club:8080/Samira/Samira/12640
 #EXTINF:-1,VIP ES: TELEDEPORTE HD
 http://admin-mainpanel.club:8080/Samira/Samira/3374
-#EXTINF:-1,VIP ES: M. Laliga UHD 4K
-http://admin-mainpanel.club:8080/Judith/Judith/30737
-#EXTINF:-1,VIP ES: M. Campeones UHD 4K
-http://admin-mainpanel.club:8080/Judith/Judith/34560
-#EXTINF:-1,VIP ES: M. Formula 1 UHD 4K
-http://admin-mainpanel.club:8080/Judith/Judith/34561
-#EXTINF:-1,VIP ES: M. Liga De Campeones FHD(Multi-Audio)
-http://admin-mainpanel.club:8080/Judith/Judith/63094
-#EXTINF:-1,VIP ES: M. LaLiga FHD (Multi-Audio)
-http://admin-mainpanel.club:8080/Judith/Judith/63095
-#EXTINF:-1,VIP ES: LaLiga TV Bar FHD (Multi-Audio)
-http://admin-mainpanel.club:8080/Judith/Judith/63097
-#EXTINF:-1,VIP ES: LaLiga TV Bar FHD H265
-http://admin-mainpanel.club:8080/Judith/Judith/63096
-#EXTINF:-1,VIP ES: Sky Sports Premier League FHD
-http://admin-mainpanel.club:8080/Judith/Judith/23071
+#EXTINF:-1,VIP ES: TELEDEPORTE HD
+http://admin-mainpanel.club:8080/Samira/Samira/3374
+#EXTINF:-1,VIP ES: Realmadrid TV FHD
+http://admin-mainpanel.club:8080/Samira/Samira/26929
+#EXTINF:-1,VIP ES: Sevilla FC
+http://admin-mainpanel.club:8080/Samira/Samira/42077
+#EXTINF:-1,VIP ES: Betis TV
+http://admin-mainpanel.club:8080/Samira/Samira/26927
+#EXTINF:-1,VIP ES: Esport 3
+http://admin-mainpanel.club:8080/Samira/Samira/20620
+#EXTINF:-1,VIP ES: U-BEAT HD
+http://admin-mainpanel.club:8080/Samira/Samira/26924
+#EXTINF:-1,VIP ES: ETB 1HD
+http://admin-mainpanel.club:8080/Samira/Samira/20621
+#EXTINF:-1,VIP ES: ETB 2HD
+http://admin-mainpanel.club:8080/Samira/Samira/26925
+#EXTINF:-1,VIP ES: ETB Sat
+http://admin-mainpanel.club:8080/Samira/Samira/26926
+#EXTINF:-1,VIP ES: DARK FHD
+http://admin-mainpanel.club:8080/Samira/Samira/42079
+#EXTINF:-1,VIP ES: DARK
+http://admin-mainpanel.club:8080/Samira/Samira/656
+#EXTINF:-1,VIP ES: XTRM HD
+http://admin-mainpanel.club:8080/Samira/Samira/42083
+#EXTINF:-1,VIP ES: XTRM
+http://admin-mainpanel.club:8080/Samira/Samira/8210
+#EXTINF:-1,VIP ES: SOMOS FHD
+http://admin-mainpanel.club:8080/Samira/Samira/42570
+#EXTINF:-1,VIP ES: SOMOS
+http://admin-mainpanel.club:8080/Samira/Samira/20623
+#EXTINF:-1,VIP ES: SOL Musica FHD
+http://admin-mainpanel.club:8080/Samira/Samira/42571
+#EXTINF:-1,VIP ES: SOL Musica
+http://admin-mainpanel.club:8080/Samira/Samira/23064
+#EXTINF:-1,VIP ES: CANAL ODISEA HD
+http://admin-mainpanel.club:8080/Samira/Samira/23022
+#EXTINF:-1,VIP ES: CANAL COCINA HD
+http://admin-mainpanel.club:8080/Samira/Samira/42081
+#EXTINF:-1,VIP ES: CANAL DECASA HD
+http://admin-mainpanel.club:8080/Samira/Samira/42080
+#EXTINF:-1,VIP ES: DISCOVERY FHD
+http://admin-mainpanel.club:8080/Samira/Samira/23018
+#EXTINF:-1,VIP ES: CAZAVISION
+http://admin-mainpanel.club:8080/Samira/Samira/34559
+#EXTINF:-1,VIP ES: BLAZE HD
+http://admin-mainpanel.club:8080/Samira/Samira/42082
+#EXTINF:-1,VIP ES: BE MAD FHD
+http://admin-mainpanel.club:8080/Samira/Samira/42582
+#EXTINF:-1,VIP ES: Bom Cine
+http://admin-mainpanel.club:8080/Samira/Samira/42078
+#EXTINF:-1,VIP ES: DISNEY+ HD
+http://admin-mainpanel.club:8080/Samira/Samira/26930
+#EXTINF:-1,VIP ES: TELE MADRID FHD
+http://admin-mainpanel.club:8080/Samira/Samira/39666
+#EXTINF:-1,VIP ES: CLAN HD
+http://admin-mainpanel.club:8080/Samira/Samira/39668
+#EXTINF:-1,VIP ES: Historia HD
+http://admin-mainpanel.club:8080/Samira/Samira/39667
+#EXTINF:-1,VIP ES: RTV Andorra
+http://admin-mainpanel.club:8080/Samira/Samira/39665
+#EXTINF:-1,VIP ES: La Otra
+http://admin-mainpanel.club:8080/Samira/Samira/39778
+#EXTINF:-1,VIP ES: MEGA FHD
+http://admin-mainpanel.club:8080/Samira/Samira/12628
+#EXTINF:-1,VIP ES: Movistar Alquiler Presentation
+http://admin-mainpanel.club:8080/Samira/Samira/35091
+#EXTINF:-1,VIP ES: Movistar Alquiler 1 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35079
+#EXTINF:-1,VIP ES: Movistar Alquiler 2 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35080
+#EXTINF:-1,VIP ES: Movistar Alquiler 3 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35081
+#EXTINF:-1,VIP ES: Movistar Alquiler 4 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35082
+#EXTINF:-1,VIP ES: Movistar Alquiler 5 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35083
+#EXTINF:-1,VIP ES: Movistar Alquiler 6 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35084
+#EXTINF:-1,VIP ES: Movistar Alquiler 7 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35085
+#EXTINF:-1,VIP ES: Movistar Alquiler 8 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35086
+#EXTINF:-1,VIP ES: Movistar Alquiler 9 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35087
+#EXTINF:-1,VIP ES: Movistar Alquiler 10 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35088
+#EXTINF:-1,VIP ES: Movistar Alquiler 11 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35089
+#EXTINF:-1,VIP ES: Movistar Alquiler 12 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35090
+#EXTINF:-1,VIP ES: Movistar Alquiler 13 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35094
+#EXTINF:-1,VIP ES: Movistar Alquiler 14 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35095
+#EXTINF:-1,VIP ES: Movistar Alquiler 15 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35096
+#EXTINF:-1,VIP ES: Movistar Alquiler 16 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35097
+#EXTINF:-1,VIP ES: Movistar Alquiler 17 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35098
+#EXTINF:-1,VIP ES: Movistar Alquiler 18 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35099
+#EXTINF:-1,VIP ES: Movistar Alquiler Multivision 1 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35092
+#EXTINF:-1,VIP ES: Movistar Alquiler Multivision 2 FHD
+http://admin-mainpanel.club:8080/Samira/Samira/35093
