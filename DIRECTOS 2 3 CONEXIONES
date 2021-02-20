@@ -1,697 +1,423 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 MOVISTAR ESPAÑA" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",DAZN 1 MOVISTAR ESPAÑA
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/91407
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 MOVISTAR ESPAÑA" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",DAZN 2 MOVISTAR ESPAÑA
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/91408
 #EXTINF:-1 tvg-id="" tvg-name="ES |  LaLigaTV HD" tvg-logo="https://i.imgur.com/BcYsUcf.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  LaLigaTV HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/563
-#EXTINF:-1 tvg-id="laligatv.es" tvg-name="ES | LaLiga TV Bar FHD" tvg-logo="https://www.futbar.com/static/img/laliga_white_logo.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | LaLiga TV Bar FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1814
-#EXTINF:-1 tvg-id="" tvg-name="ES | Liga tv bar" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Liga tv bar
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1838
-#EXTINF:-1 tvg-id="" tvg-name="ES |  LaLiga HD" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  LaLiga HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1842
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES |LALIGA TV BAR HD" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA TV BAR HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32884
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | Movistar LaLiga HD" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar LaLiga HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/567
-#EXTINF:-1 tvg-id="" tvg-name="*ES | Movistar Laliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",*ES | Movistar Laliga
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1822
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Laliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar Laliga
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1841
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | Movistar La Liga " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar La Liga 
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32878
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES | Toros TV HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Toros TV HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/679
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES  | MOVISTAR  TOROS" tvg-logo="https://pbs.twimg.com/profile_images/834693121883643904/ZPV95ptU_400x400.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES  | MOVISTAR  TOROS
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1818
-#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES | MOVISTAR F1 FHD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR F1 FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1819
-#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES | Movistar Formula 1 HD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar Formula 1 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/628
-#EXTINF:-1 tvg-id="" tvg-name="ES | M.FORMULA1 HD CONEXION BAJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M.FORMULA1 HD CONEXION BAJA
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/72581
-#EXTINF:-1 tvg-id="" tvg-name="ES | M.FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M.FORMULA 1 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/72582
-#EXTINF:-1 tvg-id="" tvg-name="ES | beINSport LaLiga HD  ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | beINSport LaLiga HD  ( SOLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1825
-#EXTINF:-1 tvg-id="" tvg-name="ES | LALIGA BAR  FHD" tvg-logo="https://i.imgur.com/tguv230.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | LALIGA BAR  FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1837
-#EXTINF:-1 tvg-id="" tvg-name="ES | Bein Sport HD (EN)" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Bein Sport HD (EN)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1839
-#EXTINF:-1 tvg-id="" tvg-name="ES | Bein Sports LaLiga" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Bein Sports LaLiga
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1840
-#EXTINF:-1 tvg-id="" tvg-name="ES | VAMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/800px-Vamos.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | VAMOS
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/5104
-#EXTINF:-1 tvg-id="" tvg-name="ES | #VAMOS HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1200px-Vamos.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | #VAMOS HD 
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/4915
-#EXTINF:-1 tvg-id="" tvg-name="ES | Vamos HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Vamos HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1828
-#EXTINF:-1 tvg-id="" tvg-name="ES | Vamos FHD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Vamos FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1827
-#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES | MOVISTAR GOLF  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR GOLF  HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1816
-#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="*ES | Movistar Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",*ES | Movistar Golf
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1830
-#EXTINF:-1 tvg-id="barcatv.es" tvg-name="ES | Barca TV" tvg-logo="https://jordigracia.es/wp-content/uploads/2016/05/bar%C3%A7a-tv.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Barca TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1820
-#EXTINF:-1 tvg-id="barcatv.es" tvg-name="Barca TV HD" tvg-logo="https://jordigracia.es/wp-content/uploads/2016/05/bar%C3%A7a-tv.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",Barca TV HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/562
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES | EuroSport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | EuroSport 1 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/595
-#EXTINF:-1 tvg-id="" tvg-name="ES | Eurosport 2 HD" tvg-logo="https://alloforfait.fr/wp-content/uploads/2013/02/e2hd.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Eurosport 2 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/596
-#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="ES |  Movistar Futbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  Movistar Futbol HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/629
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES  | MOVISTAR DEPORTES 1 FULL HD" tvg-logo="https://1.bp.blogspot.com/-LMn2hIyO63w/XFLal3pHMFI/AAAAAAAAKDU/KVoWiTffe9EjJ8CFaTyJX0MtWOa7E49KQCLcBGAs/s1600/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES  | MOVISTAR DEPORTES 1 FULL HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1817
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES | Movistar Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar Deportes HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/620
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES | GOL TV" tvg-logo="https://www.chillglobal.com/images/channels/rsz-gol-tv-1511690575.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | GOL TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1836
-#EXTINF:-1 tvg-id="" tvg-name="*ES Levante TV" tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",*ES Levante TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1815
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Moto GP HD" tvg-logo="https://cdn.imgbin.com/4/11/21/imgbin-logo-movistar-motogp-brand-movistar-f-rmula-1-font-moto-gp-ykFL8x3kJ4DMCymEdgLkiTung.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar Moto GP HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1833
-#EXTINF:-1 tvg-id="" tvg-name="ES | Aragón Deporte HD" tvg-logo="https://i.imgur.com/j6zrg4O.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Aragón Deporte HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2127
-#EXTINF:-1 tvg-id="" tvg-name="ES | +Real Betis TV" tvg-logo="https://i.imgur.com/NC3rEUq.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | +Real Betis TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2129
-#EXTINF:-1 tvg-id="" tvg-name="ES | +Real Madrid TV" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | +Real Madrid TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2128
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES | Real Madrid TV FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest/scale-to-width-down/200?cb=20170103061913" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Real Madrid TV FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1829
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/563
 #EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Liga De Campeones HD" tvg-logo="https://s.pngix.com/pngfile/s/47-473977_bein-sport-logo-bein-sports-hd-png-download.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar Liga De Campeones HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/564
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES |LIGA DE CAMPEONES FHD" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LIGA DE CAMPEONES FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32885
-#EXTINF:-1 tvg-id="US: ABC NEW YORK WABC" tvg-name="ES | M. LA LIGA DE CAMPEONES ( SOLO EVENTOS)" tvg-logo="https://i.imgur.com/lfTrYGY.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LA LIGA DE CAMPEONES ( SOLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/18493
-#EXTINF:-1 tvg-id="beinsportslaliga" tvg-name="ES | M.LALIGA 1 ( SOLO EVENTOS)" tvg-logo="https://i.imgur.com/lfTrYGY.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M.LALIGA 1 ( SOLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/18494
-#EXTINF:-1 tvg-id="beinsportslaliga" tvg-name="ES | M.LALIGA 2 ( Solo eventos)" tvg-logo="https://i.imgur.com/lfTrYGY.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M.LALIGA 2 ( Solo eventos)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/18495
-#EXTINF:-1 tvg-id="beinsportslaliga" tvg-name="ES | M.LALIGA 3 ( Solo eventos)" tvg-logo="https://i.imgur.com/lfTrYGY.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M.LALIGA 3 ( Solo eventos)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/18496
-#EXTINF:-1 tvg-id="beinsportslaliga" tvg-name="ES | M.LaLiga 4 ( Solo eventos)" tvg-logo="https://i.imgur.com/lfTrYGY.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M.LaLiga 4 ( Solo eventos)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/18497
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LA LIGA 1 HD HEVC ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LA LIGA 1 HD HEVC ( SOLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32886
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LA LIGA 2 HD HEVC  ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LA LIGA 2 HD HEVC  ( SOLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32887
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LA LIGA 3 HD ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LA LIGA 3 HD ( SOLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32888
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LA LIGA HD HEVC ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LA LIGA HD HEVC ( SOLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32889
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 1  ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LIGA DE CAMPEONES 1  ( SOLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32890
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2 [LIVE-EVENT]" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LIGA DE CAMPEONES 2 [LIVE-EVENT]
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32891
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 3 [LIVE-EVENT]" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LIGA DE CAMPEONES 3 [LIVE-EVENT]
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32892
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 1 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69378
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 2 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69379
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 2 FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69380
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 3 FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69381
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 3 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69382
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 4 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69383
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 5 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69384
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 6 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69385
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 7 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 7 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69386
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 8 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69387
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 9 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 9 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69388
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 10 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 10 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69389
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 1 SD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 1 SD (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69391
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 1 FHD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 1 FHD (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69392
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 2 SD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 2 SD (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69393
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 3 SD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 3 SD (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69394
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 4 SD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 4 SD (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69395
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 4 HD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 4 HD (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69396
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 4 FHD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 4 FHD (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69397
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 5 SD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 5 SD (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69398
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 5 HD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 5 HD (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69399
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 5 FHD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 5 FHD (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69400
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 6 (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 6 (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69401
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 7  (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 7  (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69402
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 8  (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 8  (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69403
-#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 9 (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 9 (SÓLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69404
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 1 FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/69390
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES |LA LIGA 2 TV HD ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LA LIGA 2 TV HD ( SOLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32879
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | LA LIGA TV BAR 1 [LIVE-EVENT]
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32880
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES |LA LIGA TV BAR 2 [LIVE-EVENT] ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LA LIGA TV BAR 2 [LIVE-EVENT] ( SOLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32881
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES |LA LIGA TV 4K (SOLO EVENTOS) " tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LA LIGA TV 4K (SOLO EVENTOS) 
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32882
-#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES |LA LIGA TV BAR 4 [LIVE-EVENT]  ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LA LIGA TV BAR 4 [LIVE-EVENT]  ( SOLO EVENTOS)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/32883
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/564
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | Movistar LaLiga HD" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar LaLiga HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/567
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES | EuroSport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | EuroSport 1 HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/595
+#EXTINF:-1 tvg-id="" tvg-name="ES | Eurosport 2 HD" tvg-logo="https://alloforfait.fr/wp-content/uploads/2013/02/e2hd.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Eurosport 2 HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/596
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES | Movistar Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar Deportes HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/620
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES | Movistar Formula 1 HD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar Formula 1 HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/628
+#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="ES |  Movistar Futbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  Movistar Futbol HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/629
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES | Toros TV HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Toros TV HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/679
+#EXTINF:-1 tvg-id="laligatv.es" tvg-name="ES | LaLiga TV Bar FHD" tvg-logo="https://www.futbar.com/static/img/laliga_white_logo.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | LaLiga TV Bar FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1814
+#EXTINF:-1 tvg-id="" tvg-name="*ES Levante TV" tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",*ES Levante TV
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1815
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES | MOVISTAR GOLF  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR GOLF  HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1816
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES  | MOVISTAR DEPORTES 1 FULL HD" tvg-logo="https://1.bp.blogspot.com/-LMn2hIyO63w/XFLal3pHMFI/AAAAAAAAKDU/KVoWiTffe9EjJ8CFaTyJX0MtWOa7E49KQCLcBGAs/s1600/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES  | MOVISTAR DEPORTES 1 FULL HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1817
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES  | MOVISTAR  TOROS" tvg-logo="https://pbs.twimg.com/profile_images/834693121883643904/ZPV95ptU_400x400.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES  | MOVISTAR  TOROS
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1818
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES | MOVISTAR F1 FHD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR F1 FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1819
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="ES | Barca TV" tvg-logo="https://jordigracia.es/wp-content/uploads/2016/05/bar%C3%A7a-tv.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Barca TV
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1820
 #EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="ES |  LA Liga FHD" tvg-logo="https://i.pinimg.com/564x/3a/97/54/3a975401986b06be500946fbeb694453.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  LA Liga FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1821
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1821
+#EXTINF:-1 tvg-id="" tvg-name="*ES | Movistar Laliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",*ES | Movistar Laliga
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1822
+#EXTINF:-1 tvg-id="" tvg-name="ES | beINSport LaLiga HD  ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | beINSport LaLiga HD  ( SOLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1825
+#EXTINF:-1 tvg-id="" tvg-name="ES | Vamos FHD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Vamos FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1827
+#EXTINF:-1 tvg-id="" tvg-name="ES | Vamos HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Vamos HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1828
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES | Real Madrid TV FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest/scale-to-width-down/200?cb=20170103061913" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Real Madrid TV FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1829
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="*ES | Movistar Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",*ES | Movistar Golf
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1830
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Moto GP HD" tvg-logo="https://cdn.imgbin.com/4/11/21/imgbin-logo-movistar-motogp-brand-movistar-f-rmula-1-font-moto-gp-ykFL8x3kJ4DMCymEdgLkiTung.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar Moto GP HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1833
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES | GOL TV" tvg-logo="https://www.chillglobal.com/images/channels/rsz-gol-tv-1511690575.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | GOL TV
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1836
+#EXTINF:-1 tvg-id="" tvg-name="ES | LALIGA BAR  FHD" tvg-logo="https://i.imgur.com/tguv230.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | LALIGA BAR  FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1837
+#EXTINF:-1 tvg-id="" tvg-name="ES | Liga tv bar" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Liga tv bar
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1838
+#EXTINF:-1 tvg-id="" tvg-name="ES | Bein Sport HD (EN)" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Bein Sport HD (EN)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1839
+#EXTINF:-1 tvg-id="" tvg-name="ES | Bein Sports LaLiga" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Bein Sports LaLiga
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1840
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Laliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar Laliga
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1841
+#EXTINF:-1 tvg-id="" tvg-name="ES |  LaLiga HD" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  LaLiga HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/1842
+#EXTINF:-1 tvg-id="" tvg-name="ES | Aragón Deporte HD" tvg-logo="https://i.imgur.com/j6zrg4O.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Aragón Deporte HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/2127
+#EXTINF:-1 tvg-id="" tvg-name="ES | +Real Madrid TV" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | +Real Madrid TV
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/2128
+#EXTINF:-1 tvg-id="" tvg-name="ES | +Real Betis TV" tvg-logo="https://i.imgur.com/NC3rEUq.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | +Real Betis TV
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/2129
+#EXTINF:-1 tvg-id="" tvg-name="ES | #VAMOS HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1200px-Vamos.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | #VAMOS HD 
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/4915
+#EXTINF:-1 tvg-id="" tvg-name="ES | VAMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/800px-Vamos.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | VAMOS
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/5104
 #EXTINF:-1 tvg-id="" tvg-name="ES | TELEDEPORTE HD" tvg-logo="https://trinmer.com/wp-content/uploads/2013/12/teledeportehd.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | TELEDEPORTE HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/13394
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="ESPAÑA  |LA 1 SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="ESPAÑA",ESPAÑA  |LA 1 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40804
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="ESPAÑA  | La 2 HD" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA  | La 2 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/535
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="ESPAÑA  |LA 2 HD" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA  |LA 2 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40805
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="ESPAÑA  |LA 2 FHD" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA  |LA 2 FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40806
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="ESPAÑA  |LA 2 SD" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA  |LA 2 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40807
-#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="ESPAÑA | Antena 3 HD" tvg-logo="https://emtstatic.com/2016/12/audiencia-antena3.png" group-title="ESPAÑA",ESPAÑA | Antena 3 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/537
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Antena 3 HD OPC 2" tvg-logo="https://emtstatic.com/2016/12/audiencia-antena3.png" group-title="ESPAÑA",ESPAÑA | Antena 3 HD OPC 2
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/33745
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ANTENA 3 HD" tvg-logo="https://emtstatic.com/2016/12/audiencia-antena3.png" group-title="ESPAÑA",ESPAÑA | ANTENA 3 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40808
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ANTENA 3 FHD" tvg-logo="https://emtstatic.com/2016/12/audiencia-antena3.png" group-title="ESPAÑA",ESPAÑA | ANTENA 3 FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40809
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ANTENA 3 SD" tvg-logo="https://emtstatic.com/2016/12/audiencia-antena3.png" group-title="ESPAÑA",ESPAÑA | ANTENA 3 SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40810
-#EXTINF:-1 tvg-id="Cuatro" tvg-name="ESPAÑA | Cuatro HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="ESPAÑA",ESPAÑA | Cuatro HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/539
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Cuatro HD OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="ESPAÑA",ESPAÑA | Cuatro HD OPC 2
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/33746
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |CUATRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="ESPAÑA",ESPAÑA  |CUATRO HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40811
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |CUATRO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="ESPAÑA",ESPAÑA  |CUATRO FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40812
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |CUATRO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="ESPAÑA",ESPAÑA  |CUATRO SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40813
-#EXTINF:-1 tvg-id="Telecinco.sp" tvg-name="ESPAÑA | Telecinco HD" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA | Telecinco HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/544
-#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="ESPAÑA | Telecinco HD OPC 2" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA | Telecinco HD OPC 2
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/33744
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |TELECINCO HD" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA  |TELECINCO HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40814
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |TELECINCO FHD" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA  |TELECINCO FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40815
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |TELECINCO SD" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA  |TELECINCO SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40816
-#EXTINF:-1 tvg-id="La Sexta" tvg-name="ESPAÑA | La Sexta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA",ESPAÑA | La Sexta HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/546
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | La Sexta HD OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA",ESPAÑA | La Sexta HD OPC 2
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/33747
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA",ESPAÑA  |LA SEXTA HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40817
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |LA SEXTA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA",ESPAÑA  |LA SEXTA FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40818
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |LA SEXTA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA",ESPAÑA  |LA SEXTA SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40819
-#EXTINF:-1 tvg-id="13" tvg-name="ESPAÑA | TRECE TV HD" tvg-logo="https://i.imgur.com/OyRHii8.png" group-title="ESPAÑA",ESPAÑA | TRECE TV HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/660
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |TRECE TV" tvg-logo="https://i.imgur.com/OyRHii8.png" group-title="ESPAÑA",ESPAÑA  |TRECE TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40824
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ATRESERIES HD" tvg-logo="https://www.thematv.com/medias/channels/atres-series/LOGOTIPO_A3S_POSITIVO_CMYK.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | ATRESERIES HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40825
-#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ESPAÑA | ATRESERIES FHD" tvg-logo="https://www.thematv.com/medias/channels/atres-series/LOGOTIPO_A3S_POSITIVO_CMYK.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | ATRESERIES FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40826
-#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ESPAÑA  |ATRESERIES SD" tvg-logo="https://www.thematv.com/medias/channels/atres-series/LOGOTIPO_A3S_POSITIVO_CMYK.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA  |ATRESERIES SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40827
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |ENERGY HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="ESPAÑA",ESPAÑA  |ENERGY HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40828
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |ENERGY FHD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="ESPAÑA",ESPAÑA  |ENERGY FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40829
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |ENERGY SD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="ESPAÑA",ESPAÑA  |ENERGY SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40830
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | FDF HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/FdF_logo.png/revision/latest?cb=20110703083821" group-title="ESPAÑA",ESPAÑA | FDF HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40820
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | FDF FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/FdF_logo.png/revision/latest?cb=20110703083821" group-title="ESPAÑA",ESPAÑA | FDF FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40821
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | FDF SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/FdF_logo.png/revision/latest?cb=20110703083821" group-title="ESPAÑA",ESPAÑA | FDF SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40822
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | PARAMOUNT NETWORK HD" tvg-logo="https://i.imgur.com/9RfcQLU.jpg" group-title="ESPAÑA",ESPAÑA | PARAMOUNT NETWORK HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40831
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | PARAMOUNT NETWORK HD" tvg-logo="https://i.imgur.com/9RfcQLU.jpg" group-title="ESPAÑA",ESPAÑA | PARAMOUNT NETWORK HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40832
-#EXTINF:-1 tvg-id="Nova.sp" tvg-name="ESPAÑA | Nova HD" tvg-logo="https://i.imgur.com/ft2Xv9f.png" group-title="ESPAÑA",ESPAÑA | Nova HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/658
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |NOVA HD" tvg-logo="https://i.imgur.com/ft2Xv9f.png" group-title="ESPAÑA",ESPAÑA  |NOVA HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40833
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |NOVA FHD" tvg-logo="https://i.imgur.com/ft2Xv9f.png" group-title="ESPAÑA",ESPAÑA  |NOVA FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40834
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |NOVA SD" tvg-logo="https://i.imgur.com/ft2Xv9f.png" group-title="ESPAÑA",ESPAÑA  |NOVA SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40835
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |DIVINITY HD" tvg-logo="https://i.imgur.com/Gneg2nZ.png" group-title="ESPAÑA",ESPAÑA  |DIVINITY HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40836
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |DIVINITY FHD" tvg-logo="https://i.imgur.com/Gneg2nZ.png" group-title="ESPAÑA",ESPAÑA  |DIVINITY FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40837
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |DIVINITY SD" tvg-logo="https://i.imgur.com/Gneg2nZ.png" group-title="ESPAÑA",ESPAÑA  |DIVINITY SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40838
-#EXTINF:-1 tvg-id="Mega" tvg-name="ESPAÑA | Mega HD" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA | Mega HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/668
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MEGA HD" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA | MEGA HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40839
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MEGA FHD" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA | MEGA FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40840
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="ESPAÑA | MEGA SD" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA | MEGA SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40841
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |NEOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="ESPAÑA",ESPAÑA  |NEOX HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40842
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |NEOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="ESPAÑA",ESPAÑA  |NEOX FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40843
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |NEOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="ESPAÑA",ESPAÑA  |NEOX SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40844
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |BE MAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/800px-Be_Mad_TV.svg.png" group-title="ESPAÑA",ESPAÑA  |BE MAD HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40845
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |BE MAD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/800px-Be_Mad_TV.svg.png" group-title="ESPAÑA",ESPAÑA  |BE MAD FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40846
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |BE MAD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/800px-Be_Mad_TV.svg.png" group-title="ESPAÑA",ESPAÑA  |BE MAD SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40847
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ESPAÑA | DKiss TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1280px-DKiss.svg.png" group-title="ESPAÑA",ESPAÑA | DKiss TV HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/593
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Clan TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="ESPAÑA",ESPAÑA | Clan TV HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/582
-#EXTINF:-1 tvg-id="Boing.TDTChannelsEPG" tvg-name="ESPAÑA | Boing HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-boing-png-1.png" group-title="ESPAÑA",ESPAÑA | Boing HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/568
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Boing HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/240px-Boing.svg.png" group-title="ESPAÑA",ESPAÑA | Boing HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2130
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/240px-Boing.svg.png" group-title="ESPAÑA",ESPAÑA | Boing
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2131
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |BOING HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-boing-png-1.png" group-title="ESPAÑA",ESPAÑA  |BOING HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40848
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |BOING FHD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-boing-png-1.png" group-title="ESPAÑA",ESPAÑA  |BOING FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40849
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  |BOING SD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-boing-png-1.png" group-title="ESPAÑA",ESPAÑA  |BOING SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40850
-#EXTINF:-1 tvg-id="disneyxd.es" tvg-name="ESPAÑA | Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/725px-Disney_XD_-_2015.svg.png" group-title="ESPAÑA",ESPAÑA | Disney XD HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/591
-#EXTINF:-1 tvg-id="disney.es" tvg-name="ESPAÑA | Disney Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png" group-title="ESPAÑA",ESPAÑA | Disney Channel FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2134
-#EXTINF:-1 tvg-id="disney.es" tvg-name="ES Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png" group-title="ESPAÑA",ES Disney Channel HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2135
-#EXTINF:-1 tvg-id="disneyjr.es" tvg-name="ES | Disney Junior HD" tvg-logo="https://p7.hiclipart.com/preview/37/794/397/disney-junior-the-walt-disney-company-logo-disney-channel-television-channel-scratch.jpg" group-title="ESPAÑA",ES | Disney Junior HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2136
-#EXTINF:-1 tvg-id="AragonTV.TDTChannelsEPG" tvg-name="ESPAÑA | Aragon TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="ESPAÑA",ESPAÑA | Aragon TV HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/553
-#EXTINF:-1 tvg-id="canal.sur.andalucia.es" tvg-name="ESPAÑA | Andalucia TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/1200px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="ESPAÑA",ESPAÑA | Andalucia TV HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/556
-#EXTINF:-1 tvg-id="bemad.es" tvg-name="ESPAÑA  | BEMAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="ESPAÑA",ESPAÑA  | BEMAD HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/559
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Blaze HD" tvg-logo="https://4.bp.blogspot.com/-nDE-TPDJPo4/V7n5uV0UxPI/AAAAAAAAn0g/-pJv8JtI-pMwsSkllQW11oqpWNdo1OFcQCLcB/s1600/Blaze-logo-2016.png" group-title="ESPAÑA",ESPAÑA | Blaze HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/560
-#EXTINF:-1 tvg-id="babytv.es" tvg-name="ESPAÑA | Baby TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="ESPAÑA",ESPAÑA | Baby TV HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/561
-#EXTINF:-1 tvg-id="CanalSurA.TDTChannelsEPG" tvg-name="ESPAÑA | CANAL SUR" tvg-logo="https://pbs.twimg.com/profile_images/1140603134693298176/x40aCIk1_400x400.png" group-title="ESPAÑA",ESPAÑA | CANAL SUR
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/571
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CANAL PANDA" tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2015/07/LOGO-PANDA.png" group-title="ESPAÑA",ESPAÑA | CANAL PANDA
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/572
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="ESPAÑA | Canal Decasa HD" tvg-logo="https://i.pinimg.com/280x280_RS/89/20/11/892011c7a0fa3e43f03d951f0f8ec4d8.jpg" group-title="ESPAÑA",ESPAÑA | Canal Decasa HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/578
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ESPAÑA | Canal Cocina HD" tvg-logo="https://pbs.twimg.com/profile_images/1148236615753637888/-E4bBR0b_400x400.png" group-title="ESPAÑA",ESPAÑA | Canal Cocina HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/577
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Caza Y Pesca HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest?cb=20161008171111" group-title="ESPAÑA",ESPAÑA | Caza Y Pesca HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/581
-#EXTINF:-1 tvg-id="CA: ABC EAST" tvg-name="ESPAÑA | Cosmo HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cosmohd.png" group-title="ESPAÑA",ESPAÑA | Cosmo HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/586
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ESPAÑA | Historia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title="ESPAÑA",ESPAÑA | Historia HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/606
-#EXTINF:-1 tvg-id="iberalia.es" tvg-name="ESPAÑA | Iberalia TV HD" tvg-logo="https://www.iberalia.tv/images/cazaclub/logos/te_apuntas.png" group-title="ESPAÑA",ESPAÑA | Iberalia TV HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/610
-#EXTINF:-1 tvg-id="NatGeoHD.sp" tvg-name="ESPAÑA | Nat Geo HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="ESPAÑA",ESPAÑA | Nat Geo HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/645
-#EXTINF:-1 tvg-id="disney.es" tvg-name="ESPAÑA | Discovery Channel HD" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="ESPAÑA",ESPAÑA | Discovery Channel HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/646
-#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="ESPAÑA | TVE Internacional HD" tvg-logo="http://www.rtve.es/css/rtve.2015.television/rtve.programas/tve-internacional/i/cabecera_tve_internacional_logo.png" group-title="ESPAÑA",ESPAÑA | TVE Internacional HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/650
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ESPAÑA | Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png" group-title="ESPAÑA",ESPAÑA | Nat Geo Wild HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/652
-#EXTINF:-1 tvg-id="NickJr.es" tvg-name="ESPAÑA | Nick JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1024px-Nick_Jr._logo_2009.svg.png" group-title="ESPAÑA",ESPAÑA | Nick JR HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/654
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ESPAÑA | Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="ESPAÑA",ESPAÑA | Nickelodeon HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/656
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Canal 0 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/-0_M%2B_copie.png/revision/latest?cb=20160225071110" group-title="ESPAÑA",ESPAÑA | Canal 0 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/665
-#EXTINF:-1 tvg-id="mtvespana.es" tvg-name="ESPAÑA | MTV HD" tvg-logo="https://img.pngio.com/mtv-logo-png-download-500500-free-transparent-television-png-mtv-png-900_500.jpg" group-title="ESPAÑA",ESPAÑA | MTV HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/669
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="ESPAÑA | Odisea HD" tvg-logo="http://www.euskaltel.com/webektest/Galeria/Imagenes/Foro/odisea/foro-odisea.png" group-title="ESPAÑA",ESPAÑA | Odisea HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/671
-#EXTINF:-1 tvg-id="Extremadura.TDTChannelsEPG" tvg-name="ESPAÑA | Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/480px-CEXMA_new.png" group-title="ESPAÑA",ESPAÑA | Canal Extremadura
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2123
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Canal Málaga" tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="ESPAÑA",ESPAÑA | Canal Málaga
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2124
-#EXTINF:-1 tvg-id="TV3cat.sp" tvg-name="ESPAÑA | TV3 Catalunya" tvg-logo="https://i.imgur.com/Tx5Z9Rr.png" group-title="ESPAÑA",ESPAÑA | TV3 Catalunya
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2125
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Distrito TV" tvg-logo="https://i.imgur.com/V04dJhe.jpg" group-title="ESPAÑA",ESPAÑA | Distrito TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2126
-#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="ESPAÑA | Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/640px-TeleMadrid.svg.png" group-title="ESPAÑA",ESPAÑA | Telemadrid
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2132
-#EXTINF:-1 tvg-id="Aragón TV Int" tvg-name="ESPAÑA |  Aragón TV" tvg-logo="https://i.imgur.com/1Zip59u.png" group-title="ESPAÑA",ESPAÑA |  Aragón TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2133
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  | Canal CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="ESPAÑA",ESPAÑA  | Canal CGTN Español
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2313
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/13394
+#EXTINF:-1 tvg-id="US: ABC NEW YORK WABC" tvg-name="ES | M. LA LIGA DE CAMPEONES ( SOLO EVENTOS)" tvg-logo="https://i.imgur.com/lfTrYGY.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LA LIGA DE CAMPEONES ( SOLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/18493
+#EXTINF:-1 tvg-id="beinsportslaliga" tvg-name="ES | M.LALIGA 1 ( SOLO EVENTOS)" tvg-logo="https://i.imgur.com/lfTrYGY.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M.LALIGA 1 ( SOLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/18494
+#EXTINF:-1 tvg-id="beinsportslaliga" tvg-name="ES | M.LALIGA 2 ( Solo eventos)" tvg-logo="https://i.imgur.com/lfTrYGY.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M.LALIGA 2 ( Solo eventos)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/18495
+#EXTINF:-1 tvg-id="beinsportslaliga" tvg-name="ES | M.LALIGA 3 ( Solo eventos)" tvg-logo="https://i.imgur.com/lfTrYGY.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M.LALIGA 3 ( Solo eventos)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/18496
+#EXTINF:-1 tvg-id="beinsportslaliga" tvg-name="ES | M.LaLiga 4 ( Solo eventos)" tvg-logo="https://i.imgur.com/lfTrYGY.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M.LaLiga 4 ( Solo eventos)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/18497
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | Movistar La Liga " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | Movistar La Liga 
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32878
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES |LA LIGA 2 TV HD ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LA LIGA 2 TV HD ( SOLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32879
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | LA LIGA TV BAR 1 [LIVE-EVENT]
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32880
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES |LA LIGA TV BAR 2 [LIVE-EVENT] ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LA LIGA TV BAR 2 [LIVE-EVENT] ( SOLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32881
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES |LA LIGA TV 4K (SOLO EVENTOS) " tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LA LIGA TV 4K (SOLO EVENTOS) 
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32882
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES |LA LIGA TV BAR 4 [LIVE-EVENT]  ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LA LIGA TV BAR 4 [LIVE-EVENT]  ( SOLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32883
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES |LALIGA TV BAR HD" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA TV BAR HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32884
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES |LIGA DE CAMPEONES FHD" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LIGA DE CAMPEONES FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32885
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LA LIGA 1 HD HEVC ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LA LIGA 1 HD HEVC ( SOLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32886
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LA LIGA 2 HD HEVC  ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LA LIGA 2 HD HEVC  ( SOLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32887
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LA LIGA 3 HD ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LA LIGA 3 HD ( SOLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32888
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LA LIGA HD HEVC ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LA LIGA HD HEVC ( SOLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32889
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 1  ( SOLO EVENTOS)" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LIGA DE CAMPEONES 1  ( SOLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32890
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2 [LIVE-EVENT]" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LIGA DE CAMPEONES 2 [LIVE-EVENT]
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32891
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 3 [LIVE-EVENT]" tvg-logo="https://cdn.imgbin.com/24/17/25/imgbin-la-liga-bein-sports-3-streaming-media-others-S7dtg21Cr27TJzJKGy8ZK4xS7.jpg" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | MOVISTAR LIGA DE CAMPEONES 3 [LIVE-EVENT]
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/32892
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 1 SD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69378
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 2 SD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69379
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 2 FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69380
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 3 FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69381
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 3 SD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69382
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 4 SD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69383
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 5 SD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69384
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 6 SD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69385
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 7 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 7 SD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69386
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 8 SD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69387
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 9 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 9 SD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69388
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 10 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 10 SD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69389
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LaLiga 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M. LaLiga 1 FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69390
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 1 SD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 1 SD (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69391
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 1 FHD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 1 FHD (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69392
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 2 SD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 2 SD (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69393
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 3 SD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 3 SD (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69394
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 4 SD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 4 SD (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69395
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 4 HD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 4 HD (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69396
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 4 FHD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 4 FHD (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69397
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 5 SD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 5 SD (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69398
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 5 HD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 5 HD (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69399
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 5 FHD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 5 FHD (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69400
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 6 (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 6 (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69401
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 7  (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 7  (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69402
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 8  (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 8  (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69403
+#EXTINF:-1 tvg-id="" tvg-name="ES |LALIGA 9 (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1920px-Movistar_LaLiga.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |LALIGA 9 (SÓLO EVENTOS)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/69404
 #EXTINF:-1 tvg-id="amc.es" tvg-name="ESPAÑA | AMC HD" tvg-logo="https://i.dlpng.com/static/png/4145744-amc-television-show-television-channel-satellite-television-amc-png-900_500_preview.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | AMC HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/552
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/552
 #EXTINF:-1 tvg-id="axn.es" tvg-name="ESPAÑA | AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | AXN HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/554
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/554
 #EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ESPAÑA | AXN White HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | AXN White HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/557
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/557
 #EXTINF:-1 tvg-id="Atreseries.TDTChannelsEPG" tvg-name="ESPAÑA | ATRESERIES INT" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages01//2015/11/10/991003EA-D7BC-415B-BA58-AE33EB4454F5/default.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | ATRESERIES INT
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/558
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/558
 #EXTINF:-1 tvg-id="calle13.es" tvg-name="ESPAÑA | Calle 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Calle_13_Universal.png/501px-Calle_13_Universal.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Calle 13 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/575
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/575
 #EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ESPAÑA | Comedy Central HD" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_Black-01.png?height=1024" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Comedy Central HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/585
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/585
 #EXTINF:-1 tvg-id="Divinity" tvg-name="ESPAÑA | Divinity HD" tvg-logo="https://cdn.imgbin.com/11/10/2/imgbin-logo-divinity-bivid-store-television-channel-tv-channels-LSug2F3utx9QEjAacfbMbJHQe.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Divinity HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/592
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/592
 #EXTINF:-1 tvg-id="Energy" tvg-name="ESPAÑA | Energy HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Energy HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/599
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/599
 #EXTINF:-1 tvg-id="FDF.TDTChannelsEPG" tvg-name="ESPAÑA | FDF HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/FdF_logo.png/revision/latest?cb=20110703083821" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | FDF HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/600
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/600
 #EXTINF:-1 tvg-id="fox.es" tvg-name="ESPAÑA | Fox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Fox HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/601
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/601
 #EXTINF:-1 tvg-id="foxlife.es" tvg-name="ESPAÑA | FOX Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | FOX Life HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/602
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/602
 #EXTINF:-1 tvg-id="hollywood.es" tvg-name="ESPAÑA | Hollywood HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Hollywood HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/607
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/607
 #EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ESPAÑA | Movistar Accion HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/800px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Movistar Accion HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/614
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/614
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Movistar Cine HD" tvg-logo="https://pbs.twimg.com/profile_images/905382930574446592/MkOL4EEw_400x400.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Movistar Cine HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/622
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/622
 #EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="ESPAÑA | Movistar Comedia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Movistar Comedia HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/623
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/623
 #EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ESPAÑA | Movistar Series HD" tvg-logo="https://tv.orange.es/UpImages/2420/x_logo_landing_f9234bf610d902ba77dbd308b.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Movistar Series HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/637
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/637
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Movistar Xtra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1280px-Movistar_Xtra.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Movistar Xtra HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/639
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/639
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Movistar Estrenos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Movistar Estrenos HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/640
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/640
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  | SUNDANCE HD" tvg-logo="https://24.p3k.hu/app/uploads/2016/08/sundance_tv_hd_large-e1472459214767.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA  | SUNDANCE HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/644
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/644
 #EXTINF:-1 tvg-id="tnt.es" tvg-name="ESPAÑA | TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | TNT HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/649
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/649
 #EXTINF:-1 tvg-id="Neox" tvg-name="ESPAÑA | Neox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Neox HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/653
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/653
 #EXTINF:-1 tvg-id="syfy.es" tvg-name="ESPAÑA | SyFy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | SyFy HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/673
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/673
 #EXTINF:-1 tvg-id="tcm.es" tvg-name="ESPAÑA | TCM HD" tvg-logo="https://seeklogo.com/images/T/TCM-logo-2867FAA7F2-seeklogo.com.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | TCM HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/678
-#EXTINF:-1 tvg-id="paramount.es" tvg-name="ESPAÑA | PARAMOUNT CHANNEL HD" tvg-logo="https://i.imgur.com/9RfcQLU.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | PARAMOUNT CHANNEL HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/4613
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | M SERIES XTRA HD" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | M SERIES XTRA HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/4614
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR DISNEY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | MOVISTAR DISNEY 
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/4652
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Movistar Disney+ HD" tvg-logo="https://i.imgur.com/DfdeAhx.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Movistar Disney+ HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40008
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Movistar Disney+ HD ( DUAL AUDIO)" tvg-logo="https://i.imgur.com/DfdeAhx.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Movistar Disney+ HD ( DUAL AUDIO)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40066
-#EXTINF:-1 tvg-id="teleantillas.do" tvg-name="RD |  TELEANTILLAS CANAL 2" tvg-logo="https://pbs.twimg.com/profile_images/2112622974/Logo_Teleantillas-01_400x400.jpg" group-title="REPÚBLICA DOMINICANA ",RD |  TELEANTILLAS CANAL 2
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1444
-#EXTINF:-1 tvg-id="certv.4.do" tvg-name="RD | CERTV" tvg-logo="https://certv.gob.do/portada/images/2019/06/07/4rd-logo2.png" group-title="REPÚBLICA DOMINICANA ",RD | CERTV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1753
-#EXTINF:-1 tvg-id="telemicro.do" tvg-name="RD | TELEMICRO" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s1600/Telemicro.png" group-title="REPÚBLICA DOMINICANA ",RD | TELEMICRO
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2258
-#EXTINF:-1 tvg-id="telemicro.internacional.do" tvg-name="RD | TELEMICRO INTER HD" tvg-logo="https://i.imgur.com/ZMrVOQF.jpg" group-title="REPÚBLICA DOMINICANA ",RD | TELEMICRO INTER HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2259
-#EXTINF:-1 tvg-id="antena.latina.do" tvg-name="RD | ANTENA LATINA HD" tvg-logo="https://media.tvalacarta.info/canales/256x256/antena7.png" group-title="REPÚBLICA DOMINICANA ",RD | ANTENA LATINA HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1756
-#EXTINF:-1 tvg-id="color.vision.do" tvg-name="RD | COLOR VISION HD" tvg-logo="https://i.imgur.com/ZMfcdSa.png" group-title="REPÚBLICA DOMINICANA ",RD | COLOR VISION HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1445
-#EXTINF:-1 tvg-id="color.vision.do" tvg-name="RD | COLOR VISION FHD" tvg-logo="https://i.imgur.com/ZMfcdSa.png" group-title="REPÚBLICA DOMINICANA ",RD | COLOR VISION FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1757
-#EXTINF:-1 tvg-id="color.vision.do" tvg-name="RD | COLOR VISION " tvg-logo="https://i.imgur.com/ZMfcdSa.png" group-title="REPÚBLICA DOMINICANA ",RD | COLOR VISION 
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1758
-#EXTINF:-1 tvg-id="telesistema.do" tvg-name="RD | TELESISTEMA CANAL 11" tvg-logo="https://i.imgur.com/qtMx5Dh.png" group-title="REPÚBLICA DOMINICANA ",RD | TELESISTEMA CANAL 11
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1464
-#EXTINF:-1 tvg-id="telesistema.do" tvg-name="RD | TELESISTEMA HD" tvg-logo="https://i.imgur.com/S45KLod.png" group-title="REPÚBLICA DOMINICANA ",RD | TELESISTEMA HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2253
-#EXTINF:-1 tvg-id="telecentro.13.do" tvg-name="RD | TELECENTRO" tvg-logo="http://cdn.conectate.com.do.s3.amazonaws.com/wp-content/uploads/2010/06/Telecentro13.jpg" group-title="REPÚBLICA DOMINICANA ",RD | TELECENTRO
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1452
-#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="RD | DIGITAL 15 " tvg-logo="https://pbs.twimg.com/profile_images/722106841598013440/HYfckwi3.jpg" group-title="REPÚBLICA DOMINICANA ",RD | DIGITAL 15 
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1764
-#EXTINF:-1 tvg-id="cdn.noticias.do" tvg-name="RD | CDN  HD" tvg-logo="https://www.arecoa.com/wp-content/uploads/2019/08/9aa23ad9-logo-nuevo-cdn.png" group-title="REPÚBLICA DOMINICANA ",RD | CDN  HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1765
-#EXTINF:-1 tvg-id="cdn.deportes.mx" tvg-name="RD | CDN SPORT MAX HD" tvg-logo="https://1.bp.blogspot.com/--epcO0MoRng/VxKvAWKGs1I/AAAAAAAAIcM/kI_VQdjltu8HVlDDHPMEmXQugYisGinvACLcB/s1600/CDN-Sports-Max-TV%2Bcopy.png" group-title="REPÚBLICA DOMINICANA ",RD | CDN SPORT MAX HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1766
-#EXTINF:-1 tvg-id="cdn.deportes.do" tvg-name="RD |  CDN2" tvg-logo="https://i.imgur.com/IpUSxE0.png" group-title="REPÚBLICA DOMINICANA ",RD |  CDN2
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2260
-#EXTINF:-1 tvg-id="teleuniverso.do" tvg-name="RD |TELEUNIVERSO 29" tvg-logo="https://pbs.twimg.com/profile_images/1055497104175652864/3iL8w0va.jpg" group-title="REPÚBLICA DOMINICANA ",RD |TELEUNIVERSO 29
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/39971
-#EXTINF:-1 tvg-id="" tvg-name="RD | MICROVISION" tvg-logo="https://3.bp.blogspot.com/-N3U_0xKqcn8/Wr09H3EBXAI/AAAAAAAAdHk/u-HcbTtLGwAtgrHtUbKQeQiRdISSearcACLcBGAs/s200/La%2BVoz%2Bdel%2BTropico.jpg" group-title="REPÚBLICA DOMINICANA ",RD | MICROVISION
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/35681
-#EXTINF:-1 tvg-id="" tvg-name="RD |+TELEVISON DOMINICANA +" tvg-logo="https://i.imgur.com/A2vZ4n4.jpg" group-title="REPÚBLICA DOMINICANA ",RD |+TELEVISON DOMINICANA +
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/31833
-#EXTINF:-1 tvg-id="" tvg-name="RD |TELEVISON DOMINICANA" tvg-logo="https://i.imgur.com/A2vZ4n4.jpg" group-title="REPÚBLICA DOMINICANA ",RD |TELEVISON DOMINICANA
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/31832
-#EXTINF:-1 tvg-id="ame.47.do" tvg-name="RD | AME 47" tvg-logo="https://mimundobucket.s3.amazonaws.com/cablesat/cablesat/1572567602/ca564c7a15587634ea324e8783004a18.png" group-title="REPÚBLICA DOMINICANA ",RD | AME 47
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/5150
-#EXTINF:-1 tvg-id="telecoral.do" tvg-name="RD | CORAL 39" tvg-logo="https://mimundobucket.s3.amazonaws.com/cablesat/cablesat/1572567627/63274be082f2e2191769a7cd2495572c.png" group-title="REPÚBLICA DOMINICANA ",RD | CORAL 39
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/5149
-#EXTINF:-1 tvg-id="super.33.republica.dominicana.do" tvg-name="RD | Super Canal 33 HD" tvg-logo="https://i.imgur.com/0zn7iQh.png" group-title="REPÚBLICA DOMINICANA ",RD | Super Canal 33 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2255
-#EXTINF:-1 tvg-id="" tvg-name="RD |  ROMANA TV CANAL 42" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/romana-tv.jpg" group-title="REPÚBLICA DOMINICANA ",RD |  ROMANA TV CANAL 42
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1812
-#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="RD | CANAL 25 SANTIAGO" tvg-logo="https://canal25rd.com/images/canal25_logo_2017_small.png" group-title="REPÚBLICA DOMINICANA ",RD | CANAL 25 SANTIAGO
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1810
-#EXTINF:-1 tvg-id="" tvg-name="RD | CIBER VISION 3 NAGUA" tvg-logo="https://dominicanchannels.net/wp-content/uploads/2016/06/cibervision_logo_med.jpg" group-title="REPÚBLICA DOMINICANA ",RD | CIBER VISION 3 NAGUA
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1808
-#EXTINF:-1 tvg-id="" tvg-name="RD | WMS HD" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/WMS-HD-300x194.png" group-title="REPÚBLICA DOMINICANA ",RD | WMS HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1806
-#EXTINF:-1 tvg-id="" tvg-name="RD |  TV PLATA" tvg-logo="https://i.imgur.com/N6sVr5J.jpg" group-title="REPÚBLICA DOMINICANA ",RD |  TV PLATA
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1804
-#EXTINF:-1 tvg-id="" tvg-name="RD | TELENORD 10" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="REPÚBLICA DOMINICANA ",RD | TELENORD 10
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1801
-#EXTINF:-1 tvg-id="" tvg-name="RD | TELEMILENIO SANTIAGO" tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="REPÚBLICA DOMINICANA ",RD | TELEMILENIO SANTIAGO
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1799
-#EXTINF:-1 tvg-id="" tvg-name="RD | LATINOS NC TV" tvg-logo="https://s3.amazonaws.com/lnc-cloud/uploads/sites/2/20190206233407/logo-web2k19-min.png" group-title="REPÚBLICA DOMINICANA ",RD | LATINOS NC TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1796
-#EXTINF:-1 tvg-id="" tvg-name="RD |  TELECANAL 28" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/Telecanal-28.png" group-title="REPÚBLICA DOMINICANA ",RD |  TELECANAL 28
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1794
-#EXTINF:-1 tvg-id="telefuturo.23.do" tvg-name="RD | TELEFUTURO CANAL 23" tvg-logo="https://4.bp.blogspot.com/-BHVLgHFRlAo/V2ZInoyKQQI/AAAAAAAAATU/8E7lvujtck4t42nypicNLjYLSsBC9tEYQCLcB/s1600/telefuturo.png" group-title="REPÚBLICA DOMINICANA ",RD | TELEFUTURO CANAL 23
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1792
-#EXTINF:-1 tvg-id="" tvg-name="RD | LUNA TV" tvg-logo="https://i0.wp.com/elinformante.com.do/wp-content/uploads/2017/10/Luna-TV-CANAL-53.jpg" group-title="REPÚBLICA DOMINICANA ",RD | LUNA TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1789
-#EXTINF:-1 tvg-id="" tvg-name="RD | Latinos UP Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Latinos_Up_TV_entretenimiento_online_en_New_York_y_el_mundo.png" group-title="REPÚBLICA DOMINICANA ",RD | Latinos UP Tv
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1786
-#EXTINF:-1 tvg-id="" tvg-name="RD | GDM TV STUDIO" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2015/10/gdmtvstudio.jpg" group-title="REPÚBLICA DOMINICANA ",RD | GDM TV STUDIO
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1784
-#EXTINF:-1 tvg-id="" tvg-name="RD | ORBIT TV" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="REPÚBLICA DOMINICANA ",RD | ORBIT TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1779
-#EXTINF:-1 tvg-id="" tvg-name="RD | CIELO TV" tvg-logo="https://i.imgur.com/2utTFFL.png" group-title="RELIGION",RD | CIELO TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1778
-#EXTINF:-1 tvg-id="" tvg-name="RD | GH TELEVISON CANAL 10" tvg-logo="https://pbs.twimg.com/profile_images/571325118678331392/90JKEFvQ.jpeg" group-title="REPÚBLICA DOMINICANA ",RD | GH TELEVISON CANAL 10
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1777
-#EXTINF:-1 tvg-id="" tvg-name="RD | TELERADIO AMERICA" tvg-logo="https://i.imgur.com/dZbfoP0.jpg" group-title="REPÚBLICA DOMINICANA ",RD | TELERADIO AMERICA
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1773
-#EXTINF:-1 tvg-id="" tvg-name="RD | Peravia Vision" tvg-logo="http://vivotvhd.com/img/cha/2013.gif" group-title="REPÚBLICA DOMINICANA ",RD | Peravia Vision
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1510
-#EXTINF:-1 tvg-id="" tvg-name="RD |  MEGA VISION" tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492784376091-Imagen.png" group-title="REPÚBLICA DOMINICANA ",RD |  MEGA VISION
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1507
-#EXTINF:-1 tvg-id="" tvg-name="RD | TELE CARIBE " tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/08/TELECARIBE-341x400.jpeg" group-title="REPÚBLICA DOMINICANA ",RD | TELE CARIBE 
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1506
-#EXTINF:-1 tvg-id="" tvg-name="RD | BOREAL TV" tvg-logo="http://static-cdn1.ustream.tv/i/channelcover/14246341,orig,r:4.jpg" group-title="REPÚBLICA DOMINICANA ",RD | BOREAL TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1505
-#EXTINF:-1 tvg-id="" tvg-name="RD |  BONAO TV" tvg-logo="http://mitvrd.com/uploads/Bonao-TV-Canal-12.jpg" group-title="REPÚBLICA DOMINICANA ",RD |  BONAO TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1488
-#EXTINF:-1 tvg-id="" tvg-name="RD | MAIMON TV 3" tvg-logo="https://1.bp.blogspot.com/-DnycbVkGW30/T4XtN72vPHI/AAAAAAAAFqg/MLeT1rrJFeY/s1600/MAIMON+TV.jpg" group-title="REPÚBLICA DOMINICANA ",RD | MAIMON TV 3
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1487
-#EXTINF:-1 tvg-id="" tvg-name="RD |  YUNA VISION" tvg-logo="http://mitvrd.com/uploads/YunaVision-Canal-10-Bonao.jpg" group-title="REPÚBLICA DOMINICANA ",RD |  YUNA VISION
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1486
-#EXTINF:-1 tvg-id="" tvg-name="RD |  ONDA TV" tvg-logo="http://cableondaoriental.com/images/logo_tv_new_md.png" group-title="REPÚBLICA DOMINICANA ",RD |  ONDA TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1477
-#EXTINF:-1 tvg-id="" tvg-name="RD |  SUPER TV 55" tvg-logo="http://tvonline.linkscomdo.netdna-cdn.com/images/sobipro/entries/47/img_super-tv-55.jpg" group-title="REPÚBLICA DOMINICANA ",RD |  SUPER TV 55
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1474
-#EXTINF:-1 tvg-id="teleunion.do" tvg-name="RD | TELEUNION" tvg-logo="https://i.imgur.com/CXLli5j.jpg" group-title="REPÚBLICA DOMINICANA ",RD | TELEUNION
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1473
-#EXTINF:-1 tvg-id="" tvg-name="RD | ACENTO TV" tvg-logo="https://i.ytimg.com/vi/MUX1IJB-r_Y/hqdefault.jpg" group-title="REPÚBLICA DOMINICANA ",RD | ACENTO TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1460
-#EXTINF:-1 tvg-id="" tvg-name="RD | TELECANAL 28" tvg-logo="https://pbs.twimg.com/profile_images/1902058895/logo_fb_400x400.jpg" group-title="REPÚBLICA DOMINICANA ",RD | TELECANAL 28
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1459
-#EXTINF:-1 tvg-id="red.nacional.noticias.do" tvg-name="RD | RNN 27" tvg-logo="http://mitvrd.com/uploads/rnn.jpg" group-title="REPÚBLICA DOMINICANA ",RD | RNN 27
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1458
-#EXTINF:-1 tvg-id="" tvg-name="RD | TELE 12-MAO" tvg-logo="https://i.imgur.com/LrVpUyW.jpg" group-title="REPÚBLICA DOMINICANA ",RD | TELE 12-MAO
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1456
-#EXTINF:-1 tvg-id="" tvg-name="RD | CINEVISION 19" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cinevision_canal19.jpg" group-title="REPÚBLICA DOMINICANA ",RD | CINEVISION 19
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/1447
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA |  TAQUILLA 1 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA |  TAQUILLA 1 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/3062
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TAQUILLA 2 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | TAQUILLA 2 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/3061
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ALQUILER 2 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | ALQUILER 2 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/4608
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA |  TAQUILLA 3 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA |  TAQUILLA 3 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/3060
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ALQUILER 3 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | ALQUILER 3 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/4609
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/678
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA |  TAQUILLA 4 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA |  TAQUILLA 4 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/3059
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/3059
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA |  TAQUILLA 3 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA |  TAQUILLA 3 HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/3060
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TAQUILLA 2 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | TAQUILLA 2 HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/3061
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA |  TAQUILLA 1 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA |  TAQUILLA 1 HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/3062
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ALQUILER 2 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | ALQUILER 2 HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/4608
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ALQUILER 3 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | ALQUILER 3 HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/4609
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ALQUILER 4 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | ALQUILER 4 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/4610
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/4610
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ALQUILER 5 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | ALQUILER 5 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/4611
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/4611
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ALQUILER ALQUIER 6 HD" tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | ALQUILER ALQUIER 6 HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/4612
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Crimen + Investigación" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Crimen-Investigacion-logo-2017.jpg" group-title="ESPAÑA",ESPAÑA | Crimen + Investigación
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/3886
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Cazavision FHD" tvg-logo="https://tv.orange.es/UpImages/3556/cazavision_logo_canal_4cf174486e9e1c4a6ec1c2f6d.png" group-title="ESPAÑA",ESPAÑA | Cazavision FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/4654
-#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ESPAÑA | VIAJAR HD" tvg-logo="http://www.frocus.net/images/logotv/original/Viajar-HD.jpg" group-title="ESPAÑA",ESPAÑA | VIAJAR HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/2501
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="ESPAÑA  | VIAJAR HD*" tvg-logo="http://www.frocus.net/images/logotv/original/Viajar-HD.jpg" group-title="ESPAÑA",ESPAÑA  | VIAJAR HD*
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40851
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA  | VIAJAR FHD" tvg-logo="http://www.frocus.net/images/logotv/original/Viajar-HD.jpg" group-title="ESPAÑA",ESPAÑA  | VIAJAR FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40852
-#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ESPAÑA  | VIAJAR SD" tvg-logo="http://www.frocus.net/images/logotv/original/Viajar-HD.jpg" group-title="ESPAÑA",ESPAÑA  | VIAJAR SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40853
-#EXTINF:-1 tvg-id="us.Telemundo (WSNS) Chicago, IL" tvg-name="USA Latino | Telemundo Albuquerque HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="USA LATINO",USA Latino | Telemundo Albuquerque HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40858
-#EXTINF:-1 tvg-id="" tvg-name="COL | Teleamiga" tvg-logo="" group-title="RELIGION",COL | Teleamiga
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40865
-#EXTINF:-1 tvg-id="" tvg-name="COL | Televid " tvg-logo="" group-title="RELIGION",COL | Televid 
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40866
-#EXTINF:-1 tvg-id="US: USA NETWORK WEST" tvg-name="USa | USA NETWORK (WEST) | HD" tvg-logo="https://i.imgur.com/rZRWmY9.png" group-title="USA",USa | USA NETWORK (WEST) | HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/40869
-#EXTINF:-1 tvg-id="" tvg-name="CAN NEWS | CBC MONTREAL QUEBEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/1200px-CBC_News_Logo.svg.png" group-title="NOTICIAS / NEWS",CAN NEWS | CBC MONTREAL QUEBEC
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41123
-#EXTINF:-1 tvg-id="" tvg-name="CAN NEWS | CBC TORONTO" tvg-logo="https://logos-download.com/wp-content/uploads/2018/05/CBC_logo_toronto.png" group-title="NOTICIAS / NEWS",CAN NEWS | CBC TORONTO
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41124
-#EXTINF:-1 tvg-id="US: TRUTV WEST" tvg-name="USA Latino | TruTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="USA LATINO",USA Latino | TruTV HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41125
-#EXTINF:-1 tvg-id="hbo.latino.eastern.us" tvg-name="CINE HD | HBO Latino HD" tvg-logo="https://i.imgur.com/W7tgJmn.jpg" group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | HBO Latino HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41128
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Xtreme HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/HBO_Xtreme.png/revision/latest?cb=20200129203206" group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | HBO Xtreme HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41129
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/4612
+#EXTINF:-1 tvg-id="paramount.es" tvg-name="ESPAÑA | PARAMOUNT CHANNEL HD" tvg-logo="https://i.imgur.com/9RfcQLU.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | PARAMOUNT CHANNEL HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/4613
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | M SERIES XTRA HD" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | M SERIES XTRA HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/4614
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR DISNEY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | MOVISTAR DISNEY 
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/4652
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Movistar Disney+ HD" tvg-logo="https://i.imgur.com/DfdeAhx.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Movistar Disney+ HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/40008
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Movistar Disney+ HD ( DUAL AUDIO)" tvg-logo="https://i.imgur.com/DfdeAhx.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Movistar Disney+ HD ( DUAL AUDIO)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/40066
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ATRESERIES HD" tvg-logo="https://www.thematv.com/medias/channels/atres-series/LOGOTIPO_A3S_POSITIVO_CMYK.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | ATRESERIES HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/40825
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ESPAÑA | ATRESERIES FHD" tvg-logo="https://www.thematv.com/medias/channels/atres-series/LOGOTIPO_A3S_POSITIVO_CMYK.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | ATRESERIES FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/40826
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ESPAÑA  |ATRESERIES SD" tvg-logo="https://www.thematv.com/medias/channels/atres-series/LOGOTIPO_A3S_POSITIVO_CMYK.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA  |ATRESERIES SD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/40827
 #EXTINF:-1 tvg-id="0.es" tvg-name="ESPAÑA | #0 FHD" tvg-logo="https://i.imgur.com/BRHf6xj.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | #0 FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41185
-#EXTINF:-1 tvg-id="sportsman.channel.us" tvg-name="USA | Sportsman Channel | UHD" tvg-logo="https://live.staticflickr.com/65535/49471277923_2d09575480_t.jpg" group-title="USA",USA | Sportsman Channel | UHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41186
-#EXTINF:-1 tvg-id="US: OUTDOOR CHANNEL" tvg-name="USA | OUTDOOR CHANNEL | HD" tvg-logo="https://live.staticflickr.com/65535/49515351577_b827f926cf_o.jpg" group-title="USA",USA | OUTDOOR CHANNEL | HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41187
-#EXTINF:-1 tvg-id="" tvg-name="ARG NEWS | CN 24/7" tvg-logo="https://www.cn247.tv/img/logo.png" group-title="NOTICIAS / NEWS",ARG NEWS | CN 24/7
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41188
-#EXTINF:-1 tvg-id="" tvg-name="USA NEWS | RT NEWS ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="NOTICIAS / NEWS",USA NEWS | RT NEWS ESPAÑOL
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41189
-#EXTINF:-1 tvg-id="" tvg-name="USA NEWS | PRESS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/1200px-Press_Tv_logo.svg.png" group-title="NOTICIAS / NEWS",USA NEWS | PRESS TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41190
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Barny y sus amigos" tvg-logo="https://i.ytimg.com/vi/rVdqAxCHDaE/hqdefault.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Barny y sus amigos
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41193
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CUENTOS GRIMM" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/1b/9e/11/1b9e115c-a34c-6427-a9ad-6b1691b30a0c/source/256x256bb.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 CUENTOS GRIMM
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41194
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HEROES EN PIJAMAS" tvg-logo="https://a.wattpad.com/useravatar/CATBOY-2017.256.155664.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 HEROES EN PIJAMAS
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41195
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HEMAN" tvg-logo="https://cdn131.picsart.com/296370903113201.jpg?c256x256" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 HEMAN
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41196
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dave el bárbaro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipzGJybXsUyqP78Wn6zC1XXbyRy.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Dave el bárbaro
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41197
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Danny Phantom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLf77qFk54GQcmwSsox6g9JmQHu.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Danny Phantom
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41198
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Taz-Mania" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozqJKBZq3k7BjyAwv2A7V1Zv6Ba.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Taz-Mania
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41199
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje" tvg-logo="https://pm1.narvii.com/6589/fcb4fb64e36172e3dc967c96e4af73ed63eb5eb1_00.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Coraje
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41200
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogDczOsEFxCxArsva78Tv8w1ch.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Animaniacs
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41201
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La máscara" tvg-logo="https://i.imgur.com/2fI3Xz0.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 La máscara
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41202
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Gundam Wing" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aycGIbEWuFLaDgpRDrTRPig35ot.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7  Gundam Wing
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41203
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cybersix" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzzEnbcXYfwoFjzXpemB4LKIU3g.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Cybersix
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41204
-#EXTINF:-1 tvg-id="" tvg-name="24/7 X Men, La Serie Animada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 X Men, La Serie Animada
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41205
-#EXTINF:-1 tvg-id="" tvg-name="24/7 X-Men (Anime)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMQcgexc7bbbXsL0tNsNtLNPo56.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 X-Men (Anime)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41206
-#EXTINF:-1 tvg-id="" tvg-name="24/7 X-Men: Evolución" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jTZ53oCttMxEUUd0MxsyabQpKd.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 X-Men: Evolución
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41207
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La liga de la justicia" tvg-logo="https://i.pinimg.com/originals/bc/1b/4c/bc1b4c6d0c3fcc66784793a28ecc2a0e.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 La liga de la justicia
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41208
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Liga de la Justicia Ilimitada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRRvCUREeqqnp3hHdqep83eQjdP.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Liga de la Justicia Ilimitada
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41209
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El capitán Planeta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuZ5Vhh72NtoWe4qrbUriWMJNXp.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 El capitán Planeta
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41210
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SAILOR MOOM" tvg-logo="https://pbs.twimg.com/profile_images/427793886228914176/xK8GtQpX.png" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 SAILOR MOOM
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41211
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chema" tvg-logo="https://ugc-02.cafemomstatic.com/gen/constrain/500/500/80/2016/11/17/11/39/r5/phf7z86aio1.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 El Chema
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41212
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA HORA PICO" tvg-logo="https://img.discogs.com/zkc9wmV4qBdyBsb52_Tt7aF_C5o=/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2972229-1309816696.jpeg.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 LA HORA PICO
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41213
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PINKY Y CEREBRO" tvg-logo="https://assets.show.news/__export/1586216624660/sites/debate/img/2020/04/06/pinky-1_crop1586216612730.jpg_1694538543.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 PINKY Y CEREBRO
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41214
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de papel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LjPjtfaxEn2W61ORPeytr5Qq7j.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 La casa de papel
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41215
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Breaking Bad
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41216
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | Locomotion" tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="COSTA RICA",COSTA RICA | Locomotion
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41191
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/41185
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR Drama FHD" tvg-logo="https://i.pinimg.com/564x/32/77/e1/3277e122aa9d2341db7f9fa784fb780f.jpg" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | MOVISTAR Drama FHD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41219
-#EXTINF:-1 tvg-id="redbulltv.us" tvg-name="DEPORTES HD | RED BULL TV" tvg-logo="https://agnituslife.com/wp-content/uploads/2018/03/Red-Bull-TV-810x579.jpg" group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | RED BULL TV
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41226
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Street Sharks" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk8PDEgEP1KLcinuhn6RIvWXy9E.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Street Sharks
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41332
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note" tvg-logo="https://i.pinimg.com/564x/dd/d4/4f/ddd44fddf1a383f92780a11cf8b980a9.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Death Note
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41333
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El proyecto Z" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61RE64an8qL._SL1000_.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 El proyecto Z
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41334
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los 4 Fantásticos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Los 4 Fantásticos
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41335
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hombres de Negro: La serie animada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmXG0SBVg0vjD4xp3jWQ0cZJIOr.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Hombres de Negro: La serie animada
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41336
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Spawn" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKZR2IIrPPo2LnMdYfxvOlXFls7.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Spawn
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41337
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Static Shock" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cY8CtEWhQ2MKJQJc9Kx116HxVEA.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Static Shock
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41338
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Vengadores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hajLOwA36xbEscEINWpGZnHlki8.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Los Vengadores
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41339
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Iron Man: Anime (ES)" tvg-logo="https://mlstaticquic-a.akamaihd.net/D_NQ_NP_854811-MEC20630767060_032016-V.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Iron Man: Anime (ES)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41340
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Silvestre Y Piolín" tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/24/09/38/246217.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Silvestre Y Piolín
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41341
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Agente Cobra" tvg-logo="https://i.pinimg.com/originals/df/26/e4/df26e41b808836ba291226528067af6a.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Super Agente Cobra
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41342
-#EXTINF:-1 tvg-id="" tvg-name="24/7 G.I. Joe" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE3ODc0ZWUtNWU5Ni00YzA2LWExMDktNTIyMTQ3YmIwNjM5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 G.I. Joe
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41343
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gasparin y sus amigos" tvg-logo="https://www.lacartoons.com/system/series/portadas/000/000/009/original/s-l300.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Gasparin y sus amigos
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41344
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Jimmy Neutrón" tvg-logo="https://i.pinimg.com/originals/9a/2a/6d/9a2a6d9dea4eb78911e2fedc7171234b.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7  Jimmy Neutrón
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41345
-#EXTINF:-1 tvg-id="warner.mexico.mx" tvg-name="USA Latino | Warner Channel HD" tvg-logo="https://i.imgur.com/MvVaR1e.png" group-title="USA LATINO",USA Latino | Warner Channel HD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41349
-#EXTINF:-1 tvg-id="tvn.nacional.chile.cl" tvg-name="Chile | TVN SD" tvg-logo="http://mylatinotv.com:8080/images/chile/tvn.png" group-title="CHILE",Chile | TVN SD
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41360
-#EXTINF:-1 tvg-id="" tvg-name="RD |  Telecibao" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/TELECIBAO001-696x392.png" group-title="REPÚBLICA DOMINICANA ",RD |  Telecibao
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41361
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Transformers: The Headmasters ( ES)" tvg-logo="https://i.pinimg.com/564x/df/8e/f3/df8ef333dcd1b0922ee070fc5cb17c32.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Transformers: The Headmasters ( ES)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41362
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Transformers Victory ( ES)" tvg-logo="https://i.pinimg.com/564x/88/0c/30/880c30be453cd83ee597319b6d9783d2.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Transformers Victory ( ES)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41363
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Teen Titans (ES)" tvg-logo="https://i.pinimg.com/564x/fb/f0/47/fbf04735aa2f4025e249c6872368104c.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Teen Titans (ES)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41364
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Test (ES)" tvg-logo="https://i.pinimg.com/564x/58/48/a1/5848a17e7e5973a8c6a12e78bf5e36d5.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Johnny Test (ES)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41365
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Transformers ( ES)" tvg-logo="https://i.pinimg.com/564x/9f/a2/4e/9fa24e18523df58b0d20edbebbc365b5.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Transformers ( ES)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41366
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Spider-Man ( ES)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIBuyai7QtNVZuLEn3eeQiyb50C.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Spider-Man ( ES)
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41367
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Superman: La serie animada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7FauEh0yeZtIPWnD3pBvG6j8sd.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Superman: La serie animada
-http://visiona4ktv.online:25461/vauZZUKmK1/xOPFGrrQ0b/41368
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/41219
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 MOVISTAR ESPAÑA" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",DAZN 2 MOVISTAR ESPAÑA
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/91408
+#EXTINF:-1 tvg-id="" tvg-name="ES | M.FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES | M.FORMULA 1 HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/72582
+#EXTINF:-1 tvg-id="" tvg-name="VILLAREAL VS VALENCIA" tvg-logo="https://gilabola.com/wp-content/uploads/2019/04/Liga-Europa-Villarreal-vs-Valencia-Villarreal-Valencia-696x378.jpgd=vfe&ved=0CAIQjRxqFwoTCLDd06GgvusCFQAAAAAdAAAAABAJ" group-title="LIGA 1 EVENTS",VILLAREAL VS VALENCIA
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/73995
+#EXTINF:-1 tvg-id="" tvg-name="VILLAREAL VS VALENCIA OPC1" tvg-logo="https://gilabola.com/wp-content/uploads/2019/04/Liga-Europa-Villarreal-vs-Valencia-Villarreal-Valencia-696x378.jpg" group-title="LIGA 1 EVENTS",VILLAREAL VS VALENCIA OPC1
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/74022
+#EXTINF:-1 tvg-id="" tvg-name="LYON VS DIJON OPC 1" tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/08/lyon-vs-dijon-en-vivo-ligue-1.jpg" group-title="LIGA 1 EVENTS",LYON VS DIJON OPC 1
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/74025
+#EXTINF:-1 tvg-id="" tvg-name="LYON VS DIJON OPC 2" tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/08/lyon-vs-dijon-en-vivo-ligue-1.jpg" group-title="LIGA 1 EVENTS",LYON VS DIJON OPC 2
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/74026
+#EXTINF:-1 tvg-id="somos.es" tvg-name="ESPAÑA | SOMOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | SOMOS HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/78195
+#EXTINF:-1 tvg-id="somos.es" tvg-name="ESPAÑA |SOMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA |SOMOS FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/78196
+#EXTINF:-1 tvg-id="" tvg-name="ES: JORNADA DE LA LIGA (ESPN 2)" tvg-logo="https://i.imgur.com/c77BKbd.png" group-title="LIGA ESPAÑOLA",ES: JORNADA DE LA LIGA (ESPN 2)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/68755
+#EXTINF:-1 tvg-id="" tvg-name="ES:JORNADA DE LA LIGA(DIRECTV)" tvg-logo="https://i.imgur.com/c77BKbd.png" group-title="LIGA ESPAÑOLA",ES:JORNADA DE LA LIGA(DIRECTV)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/68763
+#EXTINF:-1 tvg-id="" tvg-name="ES | JORNADA DE LA LIGA (ESPN 2 SUR FHD)" tvg-logo="https://i.imgur.com/c77BKbd.png" group-title="LIGA ESPAÑOLA",ES | JORNADA DE LA LIGA (ESPN 2 SUR FHD)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/68778
+#EXTINF:-1 tvg-id="" tvg-name="Adú (CAST)" tvg-logo="http://visiona4ktv.online:25461/images/dbbd195e1e99a830f396924a43a83d08.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Adú (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears- en un mundo diminuto (2018) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SHjHTSbbl9bWe4dFCignISpGEA.jpg" group-title="Infantiles Castellano",Boonie Bears- en un mundo diminuto (2018) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demon Eye - 2019" tvg-logo="http://visiona4ktv.online:25461/images/b88334c74a1759b2ff5427ae81cd1c78.jpg" group-title="*CASTELLANO HD*",Demon Eye - 2019
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El plan (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDNz5RG6n6mIsXVOf5TgQsvmIxN.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",El plan (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hooking Up (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5QXP7qdwtPRiZy6cQTjRoaTXuW.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Hooking Up (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Klara y el ladrón de manzanas (2019) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NwDRkGqpei774Ub6K7ndQDmdRk.jpg" group-title="Infantiles Castellano",Klara y el ladrón de manzanas (2019) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Forgotten Prince (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6agXZJo5sMA837eM1hu2rqzG58c.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",The Forgotten Prince (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La rusa - 2020" tvg-logo="http://visiona4ktv.online:25461/images/2665ecb77498e6a1020edb79a57bb35c.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",La rusa - 2020
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lino, una aventura de siete vidas(2017) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d21rfVSBRvNbOk9m7K7UCgQhA2J.jpg" group-title="Infantiles Castellano",Lino, una aventura de siete vidas(2017) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Big Trip" tvg-logo="http://visiona4ktv.online:25461/images/af7e608ecf06e7e5a3b47b2d4951b866.jpg" group-title="Infantiles Castellano",The Big Trip
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Donkey King" tvg-logo="http://visiona4ktv.online:25461/images/ba7b344fb99588417ca72db2ab6c1695.jpg" group-title="Infantiles Castellano",The Donkey King
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Gentlemen - 2020" tvg-logo="http://visiona4ktv.online:25461/images/cb1ee2a1caf400593b5da8f0d3465d3d.jpg" group-title="*CASTELLANO HD*",The Gentlemen - 2020
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Guilty - 2000" tvg-logo="http://visiona4ktv.online:25461/images/d9387eaaaaec2b68c5271facc08323d3.jpg" group-title="*CASTELLANO HD*",The Guilty - 2000
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lovebirds (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",The Lovebirds (2020)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zapatos Rojos y los siete (2019) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MBiKqTsouYqAACLYNDadsjhhC0.jpg" group-title="Infantiles Castellano",Zapatos Rojos y los siete (2019) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/69970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Greyhound (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjMbDciooTbJPofVXgAoFjfX8Of.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Greyhound (2020)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/71086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invisibles (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiYQxyplSb1oHT32GYoV64yPXQ4.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Invisibles (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/71987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 3 (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKthjUmxjHjvJK8FktFfQdmwP12.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Deep Blue Sea 3 (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/71988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragons: Rescue Riders: Secrets of the Songwing (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ECPZaRczTQiUgPtZzyOiHxlfbe.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Dragons: Rescue Riders: Secrets of the Songwing (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/71990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gretel & Hansel (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBBBXseq4k4dI63k06XIrsc02j8.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Gretel & Hansel (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/71991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Speed Cubers (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGsnBB3BquzGHSqSKqoF998oDVr.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",The Speed Cubers (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/71992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I See You (2019) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LwamrHAmxqEHsT9JViFJxT08Ek.jpg" group-title="*CASTELLANO HD*",I See You (2019) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/72005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mientras estés conmigo (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqA2FCzz4OMmXLitKopzf476RVB.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Mientras estés conmigo (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/72006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salyut-7 (2017) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2ktgF2ze4aVt9bXBUvxFJllqyd.jpg" group-title="*CASTELLANO HD*",Salyut-7 (2017) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/72007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teacher (2019) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpeieckCWekt8XTzgPylAmcvUt4.jpg" group-title="*CASTELLANO HD*",Teacher (2019) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/72008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Misbehaviour - 2020" tvg-logo="http://visiona4ktv.online:25461/images/5df86b4db994c7f850fef2406bbaadcb.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Misbehaviour - 2020
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/80076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para toda la muerte (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvpVTlgUheKxiXsE80qnKiEnh81.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Para toda la muerte (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/80077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Secret Garden (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MSDwUcqnGodFTvtlLiLKK0XKS.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",The Secret Garden (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/80079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sleepover  (2020)(CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iEc34Qje2V3FZnrSXKfZsbiHjW.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",The Sleepover  (2020)(CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/80080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Berlin, Berlin (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7dbF4YXX5fMbxisAbQpwwknwa.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Berlin, Berlin (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/80081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Larva Island Movie - 2020 (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg" group-title="Infantiles Castellano",The Larva Island Movie - 2020 (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/80082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Still Believe  (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqA2FCzz4OMmXLitKopzf476RVB.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",I Still Believe  (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/80083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Offering to the Storm (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4u9PSC3ZsTp37ND39eZ8SkgJkaf.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Offering to the Storm (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/80084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resistance (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPotrGRJf9Z5qYECXv7BjubyFRp.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Resistance (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/80085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Work It (2020) (CAST)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg" group-title="*(2020) ESTRENOS CASTELLANO*",Work It (2020) (CAST)
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/80086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los mercenarios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="*CASTELLANO HD*",Los mercenarios
+http://visiona4ktv.online:25461/movie/FicTVu02mv/DWiReMtaJD/80305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES | JORNADA DE LA LIGA (SKY SPORTS 16)" tvg-logo="https://i.imgur.com/c77BKbd.png" group-title="LIGA ESPAÑOLA",ES | JORNADA DE LA LIGA (SKY SPORTS 16)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/81397
+#EXTINF:-1 tvg-id="" tvg-name="ES |  M. DEPORTES HD" tvg-logo="https://i.imgur.com/9aYujXp.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  M. DEPORTES HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/81584
+#EXTINF:-1 tvg-id="" tvg-name="ES |  M. DEPORTES 1" tvg-logo="https://i.imgur.com/9aYujXp.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  M. DEPORTES 1
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/81585
+#EXTINF:-1 tvg-id="" tvg-name="ES |  M. DEPORTES 1 HD" tvg-logo="https://i.imgur.com/9aYujXp.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  M. DEPORTES 1 HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/81586
+#EXTINF:-1 tvg-id="" tvg-name="ES |  M. DEPORTES 2" tvg-logo="https://i.imgur.com/9aYujXp.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  M. DEPORTES 2
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/81587
+#EXTINF:-1 tvg-id="" tvg-name="ES |  M. DEPORTES 2 HD" tvg-logo="https://i.imgur.com/9aYujXp.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  M. DEPORTES 2 HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/81588
+#EXTINF:-1 tvg-id="" tvg-name="ES |  M. DEPORTES 7 (LIVEEVEENT)" tvg-logo="https://i.imgur.com/9aYujXp.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  M. DEPORTES 7 (LIVEEVEENT)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/81589
+#EXTINF:-1 tvg-id="" tvg-name="ES |  M. DEPORTES 8" tvg-logo="https://i.imgur.com/9aYujXp.png" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES |  M. DEPORTES 8
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/81590
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 5 SD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 5 SD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82713
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 6 SD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 6 SD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82714
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 6 HD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 6 HD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82715
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 6 FHD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 6 FHD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82716
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 7 SD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 7 SD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82717
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 7 HD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 7 HD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82718
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 7 FHD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 7 FHD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82719
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 8 SD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 8 SD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82720
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 8 HD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 8 HD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82721
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 8 FHD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 8 FHD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82722
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 9 SD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 9 SD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82723
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 9 HD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 9 HD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82724
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 9 FHD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 9 FHD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82725
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 10 SD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 10 SD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82726
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 10 HD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 10 HD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82727
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 10 FHD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 10 FHD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82728
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 11 SD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 11 SD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82729
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 11 HD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 11 HD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82730
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 11 FHD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 11 FHD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82731
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 12 SD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 12 SD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82732
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 12 HD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 12 HD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82733
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 12 FHD PREMIUM" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",EVENTOS 12 FHD PREMIUM
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82734
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LIGA DE CAMPEONES FHD" tvg-logo="" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES| M. LIGA DE CAMPEONES FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82852
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. Liga De Campeones HD" tvg-logo="" group-title="ESPAÑA DEPORTES (SPAIN SPORTS)",ES| M. Liga De Campeones HD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/82853
+#EXTINF:-1 tvg-id="" tvg-name="ES | JORNADA DE LA LIGA (Bein Sports Ñ HD)" tvg-logo="https://i.imgur.com/c77BKbd.png" group-title="LIGA ESPAÑOLA",ES | JORNADA DE LA LIGA (Bein Sports Ñ HD)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/87795
+#EXTINF:-1 tvg-id="" tvg-name="ES | JORNADA DE LA LIGA (Bein Sports Ñ FHD)" tvg-logo="https://i.imgur.com/c77BKbd.png" group-title="LIGA ESPAÑOLA",ES | JORNADA DE LA LIGA (Bein Sports Ñ FHD)
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/87796
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 MOVISTAR ESPAÑA" tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="DAZN EVENTOS / EVENTS",DAZN 1 MOVISTAR ESPAÑA
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/91407
+#EXTINF:-1 tvg-id="ten.es" tvg-name="ESPAÑA | TEN" tvg-logo="https://i.imgur.com/UQ4Q1R1.png" group-title="ESPAÑA",ESPAÑA | TEN
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/92956
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ESPAÑA | DMAX" tvg-logo="https://i.imgur.com/3r890ol.png" group-title="ESPAÑA",ESPAÑA | DMAX
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/92957
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ODISEA FHD" tvg-logo="https://i.pinimg.com/originals/53/8d/b2/538db23827cda66b72a6d806bb07fa10.jpg" group-title="ESPAÑA",ESPAÑA | ODISEA FHD
+http://visiona4ktv.online:25461/FicTVu02mv/DWiReMtaJD/93052
