@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1,ES | LaLiga TV Bar FHD H265 3Mb
-http://209.222.101.100:25461/lancer4/lancer4/78676
-#EXTINF:-1,ES | Movistar LaLiga  4K  ( en pruebas )
-http://209.222.101.100:25461/lancer4/lancer4/78677
-#EXTINF:-1,ES | M.Liga 1 FHD H265 3Mb
-http://209.222.101.100:25461/lancer4/lancer4/78678
-#EXTINF:-1,ES | M.LaLiga 2 HD Baja conexion
-http://209.222.101.100:25461/lancer4/lancer4/78679
-#EXTINF:-1,ES | M.LaLiga 3 HD Baja conexion
-http://209.222.101.100:25461/lancer4/lancer4/78680
 #EXTINF:-1,ES | M. LaLiga 4 SD
 http://209.222.101.100:25461/lancer4/lancer4/78681
 #EXTINF:-1,ES | M. LaLiga 5 SD
