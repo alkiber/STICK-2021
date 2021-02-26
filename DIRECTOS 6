@@ -1,4 +1,56 @@
 #EXTM3U
+#EXTINF:-1,LA LIGA TV BAR FHD
+http://doniptv.com.es:8080/juanfer/123456/44992
+#EXTINF:-1,MOVISTAR LA LIGA FHD
+http://doniptv.com.es:8080/juanfer/123456/44993
+#EXTINF:-1,MOVISTAR LA LIGA FHD (OPCION 2)
+http://doniptv.com.es:8080/juanfer/123456/44994
+#EXTINF:-1,MOVISTAR LA LIGA 1
+http://doniptv.com.es:8080/juanfer/123456/44995
+#EXTINF:-1,MOVISTAR LA LIGA 2
+http://doniptv.com.es:8080/juanfer/123456/44996
+#EXTINF:-1,MOVISTAR LA LIGA 3
+http://doniptv.com.es:8080/juanfer/123456/44997
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES FHD
+http://doniptv.com.es:8080/juanfer/123456/44998
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES FHD (OPCION 2)
+http://doniptv.com.es:8080/juanfer/123456/44999
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 1
+http://doniptv.com.es:8080/juanfer/123456/45000
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2
+http://doniptv.com.es:8080/juanfer/123456/45001
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 3
+http://doniptv.com.es:8080/juanfer/123456/45002
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 4
+http://doniptv.com.es:8080/juanfer/123456/45003
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 5
+http://doniptv.com.es:8080/juanfer/123456/45004
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 6
+http://doniptv.com.es:8080/juanfer/123456/45005
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 7
+http://doniptv.com.es:8080/juanfer/123456/45006
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 8
+http://doniptv.com.es:8080/juanfer/123456/45007
+#EXTINF:-1,UFC TV FHD
+http://doniptv.com.es:8080/juanfer/123456/45008
+#EXTINF:-1,UFC FIGHT Pass HD
+http://doniptv.com.es:8080/juanfer/123456/45010
+#EXTINF:-1,FIGHT Pass HD
+http://doniptv.com.es:8080/juanfer/123456/45011
+#EXTINF:-1,UFC NIGHT PASS
+http://doniptv.com.es:8080/juanfer/123456/45012
+#EXTINF:-1,BOX NATION HD
+http://doniptv.com.es:8080/juanfer/123456/45014
+#EXTINF:-1,FIGHT BOX FHD
+http://doniptv.com.es:8080/juanfer/123456/45015
+#EXTINF:-1,FIGHT NETWORK
+http://doniptv.com.es:8080/juanfer/123456/45016
+#EXTINF:-1,WWE FHD
+http://doniptv.com.es:8080/juanfer/123456/45017
+#EXTINF:-1,ADRENALINA SPORTS HD
+http://doniptv.com.es:8080/juanfer/123456/45018
+#EXTINF:-1,COMBATE FHD
+http://doniptv.com.es:8080/juanfer/123456/45019
 #EXTINF:-1,MOVISTAR DAZN 1 FHD
 http://doniptv.com.es:8080/juanfer/123456/43471
 #EXTINF:-1,MOVISTAR DAZN 1 HD
@@ -53,58 +105,6 @@ http://doniptv.com.es:8080/juanfer/123456/43677
 http://doniptv.com.es:8080/juanfer/123456/43678
 #EXTINF:-1,EVENTOS 19 FHD (DAZN Y FOOTTERS)
 http://doniptv.com.es:8080/juanfer/123456/43679
-#EXTINF:-1,LA LIGA TV BAR FHD
-http://doniptv.com.es:8080/juanfer/123456/44992
-#EXTINF:-1,MOVISTAR LA LIGA FHD
-http://doniptv.com.es:8080/juanfer/123456/44993
-#EXTINF:-1,MOVISTAR LA LIGA FHD (OPCION 2)
-http://doniptv.com.es:8080/juanfer/123456/44994
-#EXTINF:-1,MOVISTAR LA LIGA 1
-http://doniptv.com.es:8080/juanfer/123456/44995
-#EXTINF:-1,MOVISTAR LA LIGA 2
-http://doniptv.com.es:8080/juanfer/123456/44996
-#EXTINF:-1,MOVISTAR LA LIGA 3
-http://doniptv.com.es:8080/juanfer/123456/44997
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES FHD
-http://doniptv.com.es:8080/juanfer/123456/44998
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES FHD (OPCION 2)
-http://doniptv.com.es:8080/juanfer/123456/44999
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 1
-http://doniptv.com.es:8080/juanfer/123456/45000
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2
-http://doniptv.com.es:8080/juanfer/123456/45001
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 3
-http://doniptv.com.es:8080/juanfer/123456/45002
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 4
-http://doniptv.com.es:8080/juanfer/123456/45003
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 5
-http://doniptv.com.es:8080/juanfer/123456/45004
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 6
-http://doniptv.com.es:8080/juanfer/123456/45005
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 7
-http://doniptv.com.es:8080/juanfer/123456/45006
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 8
-http://doniptv.com.es:8080/juanfer/123456/45007
-#EXTINF:-1,UFC TV FHD
-http://doniptv.com.es:8080/juanfer/123456/45008
-#EXTINF:-1,UFC FIGHT Pass HD
-http://doniptv.com.es:8080/juanfer/123456/45010
-#EXTINF:-1,FIGHT Pass HD
-http://doniptv.com.es:8080/juanfer/123456/45011
-#EXTINF:-1,UFC NIGHT PASS
-http://doniptv.com.es:8080/juanfer/123456/45012
-#EXTINF:-1,BOX NATION HD
-http://doniptv.com.es:8080/juanfer/123456/45014
-#EXTINF:-1,FIGHT BOX FHD
-http://doniptv.com.es:8080/juanfer/123456/45015
-#EXTINF:-1,FIGHT NETWORK
-http://doniptv.com.es:8080/juanfer/123456/45016
-#EXTINF:-1,WWE FHD
-http://doniptv.com.es:8080/juanfer/123456/45017
-#EXTINF:-1,ADRENALINA SPORTS HD
-http://doniptv.com.es:8080/juanfer/123456/45018
-#EXTINF:-1,COMBATE FHD
-http://doniptv.com.es:8080/juanfer/123456/45019
 #EXTINF:-1,NBA TV
 http://doniptv.com.es:8080/juanfer/123456/45020
 #EXTINF:-1,NBA League Pass 1

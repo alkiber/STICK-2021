@@ -1,58 +1,4 @@
 #EXTM3U
-#EXTINF:-1,MOVISTAR DAZN 1 FHD
-http://doniptv.com.es:8080/juanfer/123456/43471
-#EXTINF:-1,MOVISTAR DAZN 1 HD
-http://doniptv.com.es:8080/juanfer/123456/44680
-#EXTINF:-1,MOVISTAR DAZN 1 SD
-http://doniptv.com.es:8080/juanfer/123456/44681
-#EXTINF:-1,MOVISTAR DAZN 2 FHD
-http://doniptv.com.es:8080/juanfer/123456/43472
-#EXTINF:-1,MOVISTAR DAZN 2 HD
-http://doniptv.com.es:8080/juanfer/123456/44682
-#EXTINF:-1,MOVISTAR DAZN 2 SD
-http://doniptv.com.es:8080/juanfer/123456/44683
-#EXTINF:-1,MOVISTAR DAZN 1 FHD (Opcion2)
-http://doniptv.com.es:8080/juanfer/123456/43680
-#EXTINF:-1,MOVISTAR DAZN 2 FHD (Opcion2)
-http://doniptv.com.es:8080/juanfer/123456/43681
-#EXTINF:-1,EVENTOS 1 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43278
-#EXTINF:-1,EVENTOS 2 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43279
-#EXTINF:-1,EVENTOS 3 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43280
-#EXTINF:-1,EVENTOS 4 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43281
-#EXTINF:-1,EVENTOS 5 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43282
-#EXTINF:-1,EVENTOS 6 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43283
-#EXTINF:-1,EVENTOS 7 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43284
-#EXTINF:-1,EVENTOS 8 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43285
-#EXTINF:-1,EVENTOS 9 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43286
-#EXTINF:-1,EVENTOS 10 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43287
-#EXTINF:-1,EVENTOS 11 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43288
-#EXTINF:-1,EVENTOS 12 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43289
-#EXTINF:-1,EVENTOS 13 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43290
-#EXTINF:-1,EVENTOS 14 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43291
-#EXTINF:-1,EVENTOS 15 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43675
-#EXTINF:-1,EVENTOS 16 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43676
-#EXTINF:-1,EVENTOS 17 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43677
-#EXTINF:-1,EVENTOS 18 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43678
-#EXTINF:-1,EVENTOS 19 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/juanfer/123456/43679
 #EXTINF:-1,LA LIGA TV BAR FHD
 http://doniptv.com.es:8080/juanfer/123456/44992
 #EXTINF:-1,MOVISTAR LA LIGA FHD
@@ -187,6 +133,60 @@ http://doniptv.com.es:8080/juanfer/123456/39769
 http://doniptv.com.es:8080/juanfer/123456/39772
 #EXTINF:-1,MOVISTAR LA LIGA PRO
 http://doniptv.com.es:8080/juanfer/123456/47309
+#EXTINF:-1,MOVISTAR DAZN 1 FHD
+http://doniptv.com.es:8080/juanfer/123456/43471
+#EXTINF:-1,MOVISTAR DAZN 1 HD
+http://doniptv.com.es:8080/juanfer/123456/44680
+#EXTINF:-1,MOVISTAR DAZN 1 SD
+http://doniptv.com.es:8080/juanfer/123456/44681
+#EXTINF:-1,MOVISTAR DAZN 2 FHD
+http://doniptv.com.es:8080/juanfer/123456/43472
+#EXTINF:-1,MOVISTAR DAZN 2 HD
+http://doniptv.com.es:8080/juanfer/123456/44682
+#EXTINF:-1,MOVISTAR DAZN 2 SD
+http://doniptv.com.es:8080/juanfer/123456/44683
+#EXTINF:-1,MOVISTAR DAZN 1 FHD (Opcion2)
+http://doniptv.com.es:8080/juanfer/123456/43680
+#EXTINF:-1,MOVISTAR DAZN 2 FHD (Opcion2)
+http://doniptv.com.es:8080/juanfer/123456/43681
+#EXTINF:-1,EVENTOS 1 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43278
+#EXTINF:-1,EVENTOS 2 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43279
+#EXTINF:-1,EVENTOS 3 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43280
+#EXTINF:-1,EVENTOS 4 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43281
+#EXTINF:-1,EVENTOS 5 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43282
+#EXTINF:-1,EVENTOS 6 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43283
+#EXTINF:-1,EVENTOS 7 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43284
+#EXTINF:-1,EVENTOS 8 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43285
+#EXTINF:-1,EVENTOS 9 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43286
+#EXTINF:-1,EVENTOS 10 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43287
+#EXTINF:-1,EVENTOS 11 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43288
+#EXTINF:-1,EVENTOS 12 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43289
+#EXTINF:-1,EVENTOS 13 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43290
+#EXTINF:-1,EVENTOS 14 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43291
+#EXTINF:-1,EVENTOS 15 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43675
+#EXTINF:-1,EVENTOS 16 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43676
+#EXTINF:-1,EVENTOS 17 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43677
+#EXTINF:-1,EVENTOS 18 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43678
+#EXTINF:-1,EVENTOS 19 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/juanfer/123456/43679
 #EXTINF:-1,LA 1 HD 1080P
 http://doniptv.com.es:8080/juanfer/123456/39525
 #EXTINF:-1,LA 1 SD

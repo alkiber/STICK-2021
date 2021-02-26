@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1,ES: MTV EUROPE HD
-http://doniptv.com.es:8080/marti/marti/39988
-#EXTINF:-1,ES: MTV BASE
-http://doniptv.com.es:8080/marti/marti/39989
-#EXTINF:-1,ES: MTV ROCKS HD
-http://doniptv.com.es:8080/marti/marti/39990
-#EXTINF:-1,ES: MTV DANCE FHD
-http://doniptv.com.es:8080/marti/marti/39991
-#EXTINF:-1,ES: MTV HITS HD
-http://doniptv.com.es:8080/marti/marti/39992
-#EXTINF:-1,ES: MTV CLASSIC
-http://doniptv.com.es:8080/marti/marti/39993
-#EXTINF:-1,ES: MTV LIVE FHD
-http://doniptv.com.es:8080/marti/marti/39994
-#EXTINF:-1,ES: MTV HITS EUROPE
-http://doniptv.com.es:8080/marti/marti/39995
-#EXTINF:-1,ES: MTV MUSIC 24
-http://doniptv.com.es:8080/marti/marti/39996
-#EXTINF:-1,MEZZO LIVE SD
-http://doniptv.com.es:8080/marti/marti/39997
 #EXTINF:-1,MOVISTAR DAZN 1 FHD
 http://doniptv.com.es:8080/marti/marti/43471
 #EXTINF:-1,MOVISTAR DAZN 1 HD
@@ -697,3 +677,23 @@ http://doniptv.com.es:8080/marti/marti/5463
 http://doniptv.com.es:8080/marti/marti/5464
 #EXTINF:-1,TRIOLOGIA SEÑOR DE LOS ANILLOS
 http://doniptv.com.es:8080/marti/marti/5465
+#EXTINF:-1,ES: MTV EUROPE HD
+http://doniptv.com.es:8080/marti/marti/39988
+#EXTINF:-1,ES: MTV BASE
+http://doniptv.com.es:8080/marti/marti/39989
+#EXTINF:-1,ES: MTV ROCKS HD
+http://doniptv.com.es:8080/marti/marti/39990
+#EXTINF:-1,ES: MTV DANCE FHD
+http://doniptv.com.es:8080/marti/marti/39991
+#EXTINF:-1,ES: MTV HITS HD
+http://doniptv.com.es:8080/marti/marti/39992
+#EXTINF:-1,ES: MTV CLASSIC
+http://doniptv.com.es:8080/marti/marti/39993
+#EXTINF:-1,ES: MTV LIVE FHD
+http://doniptv.com.es:8080/marti/marti/39994
+#EXTINF:-1,ES: MTV HITS EUROPE
+http://doniptv.com.es:8080/marti/marti/39995
+#EXTINF:-1,ES: MTV MUSIC 24
+http://doniptv.com.es:8080/marti/marti/39996
+#EXTINF:-1,MEZZO LIVE SD
+http://doniptv.com.es:8080/marti/marti/39997

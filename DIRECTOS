@@ -1,78 +1,4 @@
 #EXTM3U
-#EXTINF:-1,ES: MTV EUROPE HD
-http://doniptv.com.es:8080/casa/casa/39988
-#EXTINF:-1,ES: MTV BASE
-http://doniptv.com.es:8080/casa/casa/39989
-#EXTINF:-1,ES: MTV ROCKS HD
-http://doniptv.com.es:8080/casa/casa/39990
-#EXTINF:-1,ES: MTV DANCE FHD
-http://doniptv.com.es:8080/casa/casa/39991
-#EXTINF:-1,ES: MTV HITS HD
-http://doniptv.com.es:8080/casa/casa/39992
-#EXTINF:-1,ES: MTV CLASSIC
-http://doniptv.com.es:8080/casa/casa/39993
-#EXTINF:-1,ES: MTV LIVE FHD
-http://doniptv.com.es:8080/casa/casa/39994
-#EXTINF:-1,ES: MTV HITS EUROPE
-http://doniptv.com.es:8080/casa/casa/39995
-#EXTINF:-1,ES: MTV MUSIC 24
-http://doniptv.com.es:8080/casa/casa/39996
-#EXTINF:-1,MEZZO LIVE SD
-http://doniptv.com.es:8080/casa/casa/39997
-#EXTINF:-1,MOVISTAR DAZN 1 FHD
-http://doniptv.com.es:8080/casa/casa/43471
-#EXTINF:-1,MOVISTAR DAZN 1 HD
-http://doniptv.com.es:8080/casa/casa/44680
-#EXTINF:-1,MOVISTAR DAZN 1 SD
-http://doniptv.com.es:8080/casa/casa/44681
-#EXTINF:-1,MOVISTAR DAZN 2 FHD
-http://doniptv.com.es:8080/casa/casa/43472
-#EXTINF:-1,MOVISTAR DAZN 2 HD
-http://doniptv.com.es:8080/casa/casa/44682
-#EXTINF:-1,MOVISTAR DAZN 2 SD
-http://doniptv.com.es:8080/casa/casa/44683
-#EXTINF:-1,MOVISTAR DAZN 1 FHD (Opcion2)
-http://doniptv.com.es:8080/casa/casa/43680
-#EXTINF:-1,MOVISTAR DAZN 2 FHD (Opcion2)
-http://doniptv.com.es:8080/casa/casa/43681
-#EXTINF:-1,EVENTOS 1 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43278
-#EXTINF:-1,EVENTOS 2 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43279
-#EXTINF:-1,EVENTOS 3 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43280
-#EXTINF:-1,EVENTOS 4 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43281
-#EXTINF:-1,EVENTOS 5 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43282
-#EXTINF:-1,EVENTOS 6 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43283
-#EXTINF:-1,EVENTOS 7 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43284
-#EXTINF:-1,EVENTOS 8 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43285
-#EXTINF:-1,EVENTOS 9 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43286
-#EXTINF:-1,EVENTOS 10 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43287
-#EXTINF:-1,EVENTOS 11 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43288
-#EXTINF:-1,EVENTOS 12 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43289
-#EXTINF:-1,EVENTOS 13 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43290
-#EXTINF:-1,EVENTOS 14 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43291
-#EXTINF:-1,EVENTOS 15 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43675
-#EXTINF:-1,EVENTOS 16 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43676
-#EXTINF:-1,EVENTOS 17 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43677
-#EXTINF:-1,EVENTOS 18 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43678
-#EXTINF:-1,EVENTOS 19 FHD (DAZN Y FOOTTERS)
-http://doniptv.com.es:8080/casa/casa/43679
 #EXTINF:-1,LA LIGA TV BAR FHD
 http://doniptv.com.es:8080/casa/casa/44992
 #EXTINF:-1,MOVISTAR LA LIGA FHD
@@ -127,6 +53,60 @@ http://doniptv.com.es:8080/casa/casa/45017
 http://doniptv.com.es:8080/casa/casa/45018
 #EXTINF:-1,COMBATE FHD
 http://doniptv.com.es:8080/casa/casa/45019
+#EXTINF:-1,MOVISTAR DAZN 1 FHD
+http://doniptv.com.es:8080/casa/casa/43471
+#EXTINF:-1,MOVISTAR DAZN 1 HD
+http://doniptv.com.es:8080/casa/casa/44680
+#EXTINF:-1,MOVISTAR DAZN 1 SD
+http://doniptv.com.es:8080/casa/casa/44681
+#EXTINF:-1,MOVISTAR DAZN 2 FHD
+http://doniptv.com.es:8080/casa/casa/43472
+#EXTINF:-1,MOVISTAR DAZN 2 HD
+http://doniptv.com.es:8080/casa/casa/44682
+#EXTINF:-1,MOVISTAR DAZN 2 SD
+http://doniptv.com.es:8080/casa/casa/44683
+#EXTINF:-1,MOVISTAR DAZN 1 FHD (Opcion2)
+http://doniptv.com.es:8080/casa/casa/43680
+#EXTINF:-1,MOVISTAR DAZN 2 FHD (Opcion2)
+http://doniptv.com.es:8080/casa/casa/43681
+#EXTINF:-1,EVENTOS 1 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43278
+#EXTINF:-1,EVENTOS 2 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43279
+#EXTINF:-1,EVENTOS 3 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43280
+#EXTINF:-1,EVENTOS 4 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43281
+#EXTINF:-1,EVENTOS 5 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43282
+#EXTINF:-1,EVENTOS 6 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43283
+#EXTINF:-1,EVENTOS 7 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43284
+#EXTINF:-1,EVENTOS 8 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43285
+#EXTINF:-1,EVENTOS 9 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43286
+#EXTINF:-1,EVENTOS 10 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43287
+#EXTINF:-1,EVENTOS 11 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43288
+#EXTINF:-1,EVENTOS 12 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43289
+#EXTINF:-1,EVENTOS 13 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43290
+#EXTINF:-1,EVENTOS 14 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43291
+#EXTINF:-1,EVENTOS 15 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43675
+#EXTINF:-1,EVENTOS 16 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43676
+#EXTINF:-1,EVENTOS 17 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43677
+#EXTINF:-1,EVENTOS 18 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43678
+#EXTINF:-1,EVENTOS 19 FHD (DAZN Y FOOTTERS)
+http://doniptv.com.es:8080/casa/casa/43679
 #EXTINF:-1,NBA TV
 http://doniptv.com.es:8080/casa/casa/45020
 #EXTINF:-1,NBA League Pass 1
@@ -697,3 +677,23 @@ http://doniptv.com.es:8080/casa/casa/5463
 http://doniptv.com.es:8080/casa/casa/5464
 #EXTINF:-1,TRIOLOGIA SEÑOR DE LOS ANILLOS
 http://doniptv.com.es:8080/casa/casa/5465
+#EXTINF:-1,ES: MTV EUROPE HD
+http://doniptv.com.es:8080/casa/casa/39988
+#EXTINF:-1,ES: MTV BASE
+http://doniptv.com.es:8080/casa/casa/39989
+#EXTINF:-1,ES: MTV ROCKS HD
+http://doniptv.com.es:8080/casa/casa/39990
+#EXTINF:-1,ES: MTV DANCE FHD
+http://doniptv.com.es:8080/casa/casa/39991
+#EXTINF:-1,ES: MTV HITS HD
+http://doniptv.com.es:8080/casa/casa/39992
+#EXTINF:-1,ES: MTV CLASSIC
+http://doniptv.com.es:8080/casa/casa/39993
+#EXTINF:-1,ES: MTV LIVE FHD
+http://doniptv.com.es:8080/casa/casa/39994
+#EXTINF:-1,ES: MTV HITS EUROPE
+http://doniptv.com.es:8080/casa/casa/39995
+#EXTINF:-1,ES: MTV MUSIC 24
+http://doniptv.com.es:8080/casa/casa/39996
+#EXTINF:-1,MEZZO LIVE SD
+http://doniptv.com.es:8080/casa/casa/39997
