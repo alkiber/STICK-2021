@@ -1,193 +1,69 @@
 #EXTM3U
-#EXTINF:-1,ES: MOVISTAR DAZN 1 FHD
-http://4k.nice2021.xyz:80/montes/montes/209265
-#EXTINF:-1,ES: MOVISTAR DAZN 1 HD
-http://4k.nice2021.xyz:80/montes/montes/209266
-#EXTINF:-1,ES: MOVISTAR DAZN 1 SD
-http://4k.nice2021.xyz:80/montes/montes/209267
-#EXTINF:-1,ES: MOVISTAR DAZN 1 FHD (H265)
-http://4k.nice2021.xyz:80/montes/montes/211762
-#EXTINF:-1,ES: MOVISTAR DAZN 2 FHD
-http://4k.nice2021.xyz:80/montes/montes/209268
-#EXTINF:-1,ES: MOVISTAR DAZN 2 HD
-http://4k.nice2021.xyz:80/montes/montes/209269
-#EXTINF:-1,ES: MOVISTAR DAZN 2 SD
-http://4k.nice2021.xyz:80/montes/montes/209270
-#EXTINF:-1,ES: MOVISTAR DAZN 2 FHD (H265)
-http://4k.nice2021.xyz:80/montes/montes/211763
-#EXTINF:-1,ES: DAZN 1 FHD
-http://4k.nice2021.xyz:80/montes/montes/165610
-#EXTINF:-1,ES: DAZN 1 HD
-http://4k.nice2021.xyz:80/montes/montes/165444
-#EXTINF:-1,ES: DAZN 2 FHD
-http://4k.nice2021.xyz:80/montes/montes/165611
-#EXTINF:-1,ES: DAZN 2 HD
-http://4k.nice2021.xyz:80/montes/montes/165445
-#EXTINF:-1,ES: DAZN 2 HD
-http://4k.nice2021.xyz:80/montes/montes/165609
-#EXTINF:-1,ES: DAZN 3
-http://4k.nice2021.xyz:80/montes/montes/165612
-#EXTINF:-1,ES: DAZN 3 HD
-http://4k.nice2021.xyz:80/montes/montes/165440
-#EXTINF:-1,ES: EVENTO 1 FHD
-http://4k.nice2021.xyz:80/montes/montes/209236
-#EXTINF:-1,ES: EVENTO 1 HD
-http://4k.nice2021.xyz:80/montes/montes/209237
-#EXTINF:-1,ES: EVENTO 1 SD
-http://4k.nice2021.xyz:80/montes/montes/209238
-#EXTINF:-1,ES: EVENTO 2 FHD
-http://4k.nice2021.xyz:80/montes/montes/209239
-#EXTINF:-1,ES: EVENTO 2 HD
-http://4k.nice2021.xyz:80/montes/montes/209240
-#EXTINF:-1,ES: EVENTO 2 SD
-http://4k.nice2021.xyz:80/montes/montes/209241
-#EXTINF:-1,ES: EVENTO 3 FHD
-http://4k.nice2021.xyz:80/montes/montes/209242
-#EXTINF:-1,ES: EVENTO 3 HD
-http://4k.nice2021.xyz:80/montes/montes/209243
-#EXTINF:-1,ES: EVENTO 3 SD
-http://4k.nice2021.xyz:80/montes/montes/209244
-#EXTINF:-1,ES: EVENTO 4 FHD
-http://4k.nice2021.xyz:80/montes/montes/209245
-#EXTINF:-1,ES: EVENTO 4 HD
-http://4k.nice2021.xyz:80/montes/montes/209246
-#EXTINF:-1,ES: EVENTO 4 SD
-http://4k.nice2021.xyz:80/montes/montes/209247
-#EXTINF:-1,ES: EVENTO 5 FHD
-http://4k.nice2021.xyz:80/montes/montes/209248
-#EXTINF:-1,ES: EVENTO 5 HD
-http://4k.nice2021.xyz:80/montes/montes/209249
-#EXTINF:-1,ES: EVENTO 5 SD
-http://4k.nice2021.xyz:80/montes/montes/209250
-#EXTINF:-1,ES: EVENTO 6 FHD
-http://4k.nice2021.xyz:80/montes/montes/209251
-#EXTINF:-1,ES: EVENTO 6 HD
-http://4k.nice2021.xyz:80/montes/montes/209252
-#EXTINF:-1,ES: EVENTO 6 SD
-http://4k.nice2021.xyz:80/montes/montes/209253
-#EXTINF:-1,ES: EVENTO 7 FHD
-http://4k.nice2021.xyz:80/montes/montes/209254
-#EXTINF:-1,ES: EVENTO 7 HD
-http://4k.nice2021.xyz:80/montes/montes/209255
-#EXTINF:-1,ES: EVENTO 7 SD
-http://4k.nice2021.xyz:80/montes/montes/209256
-#EXTINF:-1,ES: EVENTO 8 FHD
-http://4k.nice2021.xyz:80/montes/montes/209257
-#EXTINF:-1,ES: EVENTO 8 HD
-http://4k.nice2021.xyz:80/montes/montes/209258
-#EXTINF:-1,ES: EVENTO 8 SD
-http://4k.nice2021.xyz:80/montes/montes/209259
-#EXTINF:-1,ES: EVENTO 9 FHD
-http://4k.nice2021.xyz:80/montes/montes/209260
-#EXTINF:-1,ES: EVENTO 9 HD
-http://4k.nice2021.xyz:80/montes/montes/209261
-#EXTINF:-1,ES: EVENTO 9 SD
-http://4k.nice2021.xyz:80/montes/montes/209262
-#EXTINF:-1,ES: EVENTO 10 FHD
-http://4k.nice2021.xyz:80/montes/montes/209263
-#EXTINF:-1,ES: EVENTO 11 FHD
-http://4k.nice2021.xyz:80/montes/montes/209264
-#EXTINF:-1,NBA 01
-http://4k.nice2021.xyz:80/montes/montes/211764
-#EXTINF:-1,NBA 02
-http://4k.nice2021.xyz:80/montes/montes/211765
-#EXTINF:-1,NBA 03
-http://4k.nice2021.xyz:80/montes/montes/211766
-#EXTINF:-1,NBA 04
-http://4k.nice2021.xyz:80/montes/montes/211767
-#EXTINF:-1,NBA 05
-http://4k.nice2021.xyz:80/montes/montes/211768
-#EXTINF:-1,NBA 06
-http://4k.nice2021.xyz:80/montes/montes/211769
-#EXTINF:-1,NBA 07
-http://4k.nice2021.xyz:80/montes/montes/211770
-#EXTINF:-1,NBA 08
-http://4k.nice2021.xyz:80/montes/montes/211771
-#EXTINF:-1,NBA 09
-http://4k.nice2021.xyz:80/montes/montes/211772
-#EXTINF:-1,NBA 10
-http://4k.nice2021.xyz:80/montes/montes/211773
-#EXTINF:-1,NBA 11:
-http://4k.nice2021.xyz:80/montes/montes/211774
-#EXTINF:-1,NBA 12:
-http://4k.nice2021.xyz:80/montes/montes/211775
-#EXTINF:-1,NBA 13:
-http://4k.nice2021.xyz:80/montes/montes/211776
-#EXTINF:-1,NBA 14:
-http://4k.nice2021.xyz:80/montes/montes/211777
-#EXTINF:-1,NBA 15
-http://4k.nice2021.xyz:80/montes/montes/211778
-#EXTINF:-1,L CAMPEONES FHD
-http://4k.nice2021.xyz:80/montes/montes/165353
-#EXTINF:-1,L CAMPEONES HD
-http://4k.nice2021.xyz:80/montes/montes/165358
-#EXTINF:-1,L CAMPEONES SD
-http://4k.nice2021.xyz:80/montes/montes/165359
-#EXTINF:-1,La Mega Mundial
-http://4k.nice2021.xyz:80/montes/montes/165500
-#EXTINF:-1,LIGA DE CAMPEONES 1 FHD
-http://4k.nice2021.xyz:80/montes/montes/165360
-#EXTINF:-1,LIGA DE CAMPEONES 2 FHD
-http://4k.nice2021.xyz:80/montes/montes/165365
-#EXTINF:-1,LIGA DE CAMPEONES 3 SD
-http://4k.nice2021.xyz:80/montes/montes/165371
-#EXTINF:-1,LIGA DE CAMPEONES 4 SD
-http://4k.nice2021.xyz:80/montes/montes/165373
-#EXTINF:-1,ES: MOVISTAR FORMULA 1 FHD
-http://4k.nice2021.xyz:80/montes/montes/165418
-#EXTINF:-1,ES: MOVISTAR FORMULA 1 HD
-http://4k.nice2021.xyz:80/montes/montes/165419
-#EXTINF:-1,VIP - LALIGA TV BAR FHD
-http://4k.nice2021.xyz:80/montes/montes/165384
-#EXTINF:-1,VIP - LALIGA TV BAR HD
-http://4k.nice2021.xyz:80/montes/montes/165407
-#EXTINF:-1,VIP - LALIGA TV BAR SD
-http://4k.nice2021.xyz:80/montes/montes/195002
-#EXTINF:-1,VIP - M LALIGA FHD
-http://4k.nice2021.xyz:80/montes/montes/165385
-#EXTINF:-1,VIP - M LALIGA HD
-http://4k.nice2021.xyz:80/montes/montes/165392
-#EXTINF:-1,VIP - M LALIGA SD
-http://4k.nice2021.xyz:80/montes/montes/165393
-#EXTINF:-1,VIP - M LALIGA MULTI 1 HD
-http://4k.nice2021.xyz:80/montes/montes/165396
-#EXTINF:-1,VIP - M LALIGA MULTI 2 HD
-http://4k.nice2021.xyz:80/montes/montes/165398
-#EXTINF:-1,VIP - M LALIGA MULTI 3 HD
-http://4k.nice2021.xyz:80/montes/montes/165400
-#EXTINF:-1,VIP - MOVISTAR DEPORTES 1 FHD
-http://4k.nice2021.xyz:80/montes/montes/165457
-#EXTINF:-1,VIP - MOVISTAR DEPORTES 1 HD
-http://4k.nice2021.xyz:80/montes/montes/165458
-#EXTINF:-1,VIP - MOVISTAR DEPORTES 1 SD
-http://4k.nice2021.xyz:80/montes/montes/165459
-#EXTINF:-1,VIP - MOVISTAR DEPORTES 2 SD
-http://4k.nice2021.xyz:80/montes/montes/165460
-#EXTINF:-1,VIP - MOVISTAR DEPORTES 3 SD
-http://4k.nice2021.xyz:80/montes/montes/165461
-#EXTINF:-1,VIP - MOVISTAR DEPORTES 4 SD
-http://4k.nice2021.xyz:80/montes/montes/165462
-#EXTINF:-1,VIP - MOVISTAR DEPORTES 5 SD
-http://4k.nice2021.xyz:80/montes/montes/165463
-#EXTINF:-1,VIP - MOVISTAR DEPORTES 6 SD
-http://4k.nice2021.xyz:80/montes/montes/165464
-#EXTINF:-1,VIP - MOVISTAR DEPORTES 7 SD
-http://4k.nice2021.xyz:80/montes/montes/165465
-#EXTINF:-1,VIP - MOVISTAR DEPORTES 8 SD
-http://4k.nice2021.xyz:80/montes/montes/165466
-#EXTINF:-1,VIP - MOVISTAR DEPORTES FHD
-http://4k.nice2021.xyz:80/montes/montes/165454
-#EXTINF:-1,VIP - MOVISTAR DEPORTES HD
-http://4k.nice2021.xyz:80/montes/montes/165455
-#EXTINF:-1,VIP - MOVISTAR DEPORTES SD
-http://4k.nice2021.xyz:80/montes/montes/165456
-#EXTINF:-1,VIP - MULTIDEPORTE SD
-http://4k.nice2021.xyz:80/montes/montes/165446
-#EXTINF:-1,VIP - REAL MADRID TV FHD
-http://4k.nice2021.xyz:80/montes/montes/165436
-#EXTINF:-1,VIP - SUPER TENNIS FHD
-http://4k.nice2021.xyz:80/montes/montes/165453
-#EXTINF:-1,VIP - U-BEAT FHD
-http://4k.nice2021.xyz:80/montes/montes/165452
-#EXTINF:-1,VIP - WRC RALLY LIVE HD
-http://4k.nice2021.xyz:80/montes/montes/165451
+#EXTINF:-1,DAZN 1 HD♕
+http://floresilvestrescampo.rocks:13513/jimi/jimi/441084
+#EXTINF:-1,DAZN 2 HD♕
+http://floresilvestrescampo.rocks:13513/jimi/jimi/441085
+#EXTINF:-1,DAZN 3
+http://floresilvestrescampo.rocks:13513/jimi/jimi/452718
+#EXTINF:-1,DAZN 4
+http://floresilvestrescampo.rocks:13513/jimi/jimi/452719
+#EXTINF:-1,DAZN 1 ITALIA HD♕
+http://floresilvestrescampo.rocks:13513/jimi/jimi/441120
+#EXTINF:-1,DAZN EVENTOS HD
+http://floresilvestrescampo.rocks:13513/jimi/jimi/446734
+#EXTINF:-1,DAZN EVENTOS 1 HD
+http://floresilvestrescampo.rocks:13513/jimi/jimi/446735
+#EXTINF:-1,DAZN EVENTOS 2 HD
+http://floresilvestrescampo.rocks:13513/jimi/jimi/446736
+#EXTINF:-1,DAZN EVENTOS 3 HD
+http://floresilvestrescampo.rocks:13513/jimi/jimi/446737
+#EXTINF:-1,DAZN EVENTOS 4 HD
+http://floresilvestrescampo.rocks:13513/jimi/jimi/446738
+#EXTINF:-1,DAZN EVENTOS 5 HD
+http://floresilvestrescampo.rocks:13513/jimi/jimi/446739
+#EXTINF:-1,DAZN EVENTOS 6 HD
+http://floresilvestrescampo.rocks:13513/jimi/jimi/446740
+#EXTINF:-1,DAZN EVENTOS 7 HD
+http://floresilvestrescampo.rocks:13513/jimi/jimi/446741
+#EXTINF:-1,DAZN EVENTOS 8 HD
+http://floresilvestrescampo.rocks:13513/jimi/jimi/446742
+#EXTINF:-1,DAZN EVENTOS 9 HD
+http://floresilvestrescampo.rocks:13513/jimi/jimi/446743
+#EXTINF:-1,EVENTOS 1 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447178
+#EXTINF:-1,EVENTOS 2 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447179
+#EXTINF:-1,EVENTOS 3 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447180
+#EXTINF:-1,EVENTOS 4 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447181
+#EXTINF:-1,EVENTOS 5 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447182
+#EXTINF:-1,EVENTOS 6 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447183
+#EXTINF:-1,EVENTOS 7 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447184
+#EXTINF:-1,EVENTOS 8 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447185
+#EXTINF:-1,EVENTOS 9 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447186
+#EXTINF:-1,EVENTOS 10 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447187
+#EXTINF:-1,EVENTOS 11 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447188
+#EXTINF:-1,EVENTOS 12 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447189
+#EXTINF:-1,EVENTOS 13 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447190
+#EXTINF:-1,EVENTOS 14 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447191
+#EXTINF:-1,EVENTOS 15 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447192
+#EXTINF:-1,EVENTOS 16 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447193
+#EXTINF:-1,EVENTOS 17 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447194
+#EXTINF:-1,EVENTOS 18 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447195
+#EXTINF:-1,EVENTOS 19 DAZN Y FOOTTERS)
+http://floresilvestrescampo.rocks:13513/jimi/jimi/447196
