@@ -1,4 +1,70 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="### CANALES LIGA ###" tvg-logo="" group-title="SPAIN",### CANALES LIGA ###
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38436
+#EXTINF:-1 tvg-id="" tvg-name="M. LIGA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LIGA%20.png" group-title="SPAIN",M. LIGA HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38437
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LA%20LIGA%20TV%20BAR.png" group-title="SPAIN",LALIGATV BAR
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38438
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LA%20LIGA%20TV%20BAR.png" group-title="SPAIN",LA LIGA TV BAR HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38439
+#EXTINF:-1 tvg-id="" tvg-name="M Liga de Campeones HD" tvg-logo="http://dimapro.cz:8080/images/3a7de759a894da556fd7f1870462badd.png" group-title="SPAIN",M Liga de Campeones HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38440
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 1 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LIGA%20.png" group-title="SPAIN",M. Liga de campeones 1 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38441
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 2  HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%202.png" group-title="SPAIN",M. Liga de campeones 2  HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38442
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 3 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%203.png" group-title="SPAIN",M. Liga de campeones 3 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38443
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 4 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%204.png" group-title="SPAIN",M. Liga de campeones 4 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38444
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 5 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%205.png" group-title="SPAIN",M. Liga de campeones 5 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38445
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 6 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%206.png" group-title="SPAIN",M. Liga de campeones 6 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38446
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 7 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%207.png" group-title="SPAIN",M. Liga de campeones 7 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38447
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 8 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%208.png" group-title="SPAIN",M. Liga de campeones 8 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38448
+#EXTINF:-1 tvg-id="" tvg-name="###  M  DEPORTES ###" tvg-logo="" group-title="SPAIN",###  M  DEPORTES ###
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38449
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.TELEDEPORTE.png" group-title="SPAIN",TELEDEPORTE
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38450
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTE 1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DEPORTES%201.png" group-title="SPAIN",M. DEPORTE 1 HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38451
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTE 2 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DEPORTES%202.png" group-title="SPAIN",M. DEPORTE 2 HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38452
+#EXTINF:-1 tvg-id="" tvg-name="Movistar+ F1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.F1.png" group-title="SPAIN",Movistar+ F1 HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38453
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.%20GOLF.png" group-title="SPAIN",M. GOLF HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38454
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.BARCA%20TV.png" group-title="SPAIN",BARCA TV
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38455
+#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.REAL%20MADRID%20TV.png" group-title="SPAIN",Realmadrid TV HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38456
+#EXTINF:-1 tvg-id="" tvg-name="mega" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20MEGA%20TDT.png" group-title="SPAIN",mega
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38457
+#EXTINF:-1 tvg-id="" tvg-name="C+ FUTBOL HD" tvg-logo="" group-title="SPAIN",C+ FUTBOL HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38458
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.GOL%20TV.png" group-title="SPAIN",GOL TV
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38459
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA1" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.F1.png" group-title="SPAIN",M.FORMULA1
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38460
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.EUROSPORT%201%20.png" group-title="SPAIN",EUROSPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38461
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.EUROSPORT%202%20.png" group-title="SPAIN",Eurosport 2
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38462
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga De Campeones HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LIGA%20DE%20CAMPEONES.png" group-title="SPAIN",M.Liga De Campeones HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38463
+#EXTINF:-1 tvg-id="" tvg-name="M.MOTOGP HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.MOTOGP.png" group-title="SPAIN",M.MOTOGP HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38464
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA 1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.F1.png" group-title="SPAIN",M.FORMULA 1 HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38465
+#EXTINF:-1 tvg-id="" tvg-name="tdp HD" tvg-logo="" group-title="SPAIN",tdp HD
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38466
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DAZN%201.png" group-title="SPAIN",DAZN 1
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38469
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DAZN%202.png" group-title="SPAIN",DAZN 2
+http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38470
 #EXTINF:-1 tvg-id="" tvg-name="LA 1 HD" tvg-logo="http://dimapro.cz:8080/images/7379cee65acde41f082ee33d89f6dfb1.png" group-title="SPAIN",LA 1 HD
 http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38378
 #EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/LA2.png" group-title="SPAIN",LA 2
@@ -115,72 +181,6 @@ http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38433
 http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38434
 #EXTINF:-1 tvg-id="" tvg-name="M. XTRA HD" tvg-logo="" group-title="SPAIN",M. XTRA HD
 http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38435
-#EXTINF:-1 tvg-id="" tvg-name="### CANALES LIGA ###" tvg-logo="" group-title="SPAIN",### CANALES LIGA ###
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38436
-#EXTINF:-1 tvg-id="" tvg-name="M. LIGA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LIGA%20.png" group-title="SPAIN",M. LIGA HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38437
-#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LA%20LIGA%20TV%20BAR.png" group-title="SPAIN",LALIGATV BAR
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38438
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LA%20LIGA%20TV%20BAR.png" group-title="SPAIN",LA LIGA TV BAR HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38439
-#EXTINF:-1 tvg-id="" tvg-name="M Liga de Campeones HD" tvg-logo="http://dimapro.cz:8080/images/3a7de759a894da556fd7f1870462badd.png" group-title="SPAIN",M Liga de Campeones HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38440
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 1 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LIGA%20.png" group-title="SPAIN",M. Liga de campeones 1 HD (Solo Eventos)
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38441
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 2  HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%202.png" group-title="SPAIN",M. Liga de campeones 2  HD (Solo Eventos)
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38442
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 3 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%203.png" group-title="SPAIN",M. Liga de campeones 3 HD (Solo Eventos)
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38443
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 4 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%204.png" group-title="SPAIN",M. Liga de campeones 4 HD (Solo Eventos)
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38444
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 5 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%205.png" group-title="SPAIN",M. Liga de campeones 5 HD (Solo Eventos)
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38445
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 6 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%206.png" group-title="SPAIN",M. Liga de campeones 6 HD (Solo Eventos)
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38446
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 7 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%207.png" group-title="SPAIN",M. Liga de campeones 7 HD (Solo Eventos)
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38447
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 8 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%208.png" group-title="SPAIN",M. Liga de campeones 8 HD (Solo Eventos)
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38448
-#EXTINF:-1 tvg-id="" tvg-name="###  M  DEPORTES ###" tvg-logo="" group-title="SPAIN",###  M  DEPORTES ###
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38449
-#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.TELEDEPORTE.png" group-title="SPAIN",TELEDEPORTE
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38450
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTE 1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DEPORTES%201.png" group-title="SPAIN",M. DEPORTE 1 HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38451
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTE 2 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DEPORTES%202.png" group-title="SPAIN",M. DEPORTE 2 HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38452
-#EXTINF:-1 tvg-id="" tvg-name="Movistar+ F1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.F1.png" group-title="SPAIN",Movistar+ F1 HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38453
-#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.%20GOLF.png" group-title="SPAIN",M. GOLF HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38454
-#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.BARCA%20TV.png" group-title="SPAIN",BARCA TV
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38455
-#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.REAL%20MADRID%20TV.png" group-title="SPAIN",Realmadrid TV HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38456
-#EXTINF:-1 tvg-id="" tvg-name="mega" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20MEGA%20TDT.png" group-title="SPAIN",mega
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38457
-#EXTINF:-1 tvg-id="" tvg-name="C+ FUTBOL HD" tvg-logo="" group-title="SPAIN",C+ FUTBOL HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38458
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.GOL%20TV.png" group-title="SPAIN",GOL TV
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38459
-#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA1" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.F1.png" group-title="SPAIN",M.FORMULA1
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38460
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.EUROSPORT%201%20.png" group-title="SPAIN",EUROSPORT 1 HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38461
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.EUROSPORT%202%20.png" group-title="SPAIN",Eurosport 2
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38462
-#EXTINF:-1 tvg-id="" tvg-name="M.Liga De Campeones HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LIGA%20DE%20CAMPEONES.png" group-title="SPAIN",M.Liga De Campeones HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38463
-#EXTINF:-1 tvg-id="" tvg-name="M.MOTOGP HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.MOTOGP.png" group-title="SPAIN",M.MOTOGP HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38464
-#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA 1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.F1.png" group-title="SPAIN",M.FORMULA 1 HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38465
-#EXTINF:-1 tvg-id="" tvg-name="tdp HD" tvg-logo="" group-title="SPAIN",tdp HD
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38466
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DAZN%201.png" group-title="SPAIN",DAZN 1
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38469
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DAZN%202.png" group-title="SPAIN",DAZN 2
-http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38470
 #EXTINF:-1 tvg-id="" tvg-name="###  DOCUMENTALES  ###" tvg-logo="" group-title="SPAIN",###  DOCUMENTALES  ###
 http://dimapro.cz:8080/00:1A:79:17:05:76/ziajdjjfdifjd64646/38474
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.NAT%20GEO%20HD.png" group-title="SPAIN",NAT GEO HD
