@@ -1,375 +1,443 @@
 #EXTM3U
-#EXTINF:-1,ES: M. Formula 1 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/219546
-#EXTINF:-1,ES: M. Deportes FHD
-http://ky-iptv.com:25461/godmode1/godmode1/219551
-#EXTINF:-1,ES: M. Deportes 2 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/219552
-#EXTINF:-1,ES: M. Deportes 1 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/219553
-#EXTINF:-1,ES: M. Cine Espanol FHD
-http://ky-iptv.com:25461/godmode1/godmode1/219555
-#EXTINF:-1,ES: M La Liga FHD
-http://ky-iptv.com:25461/godmode1/godmode1/219559
-#EXTINF:-1,ES: La Liga BAR FHD
-http://ky-iptv.com:25461/godmode1/godmode1/219561
-#EXTINF:-1,ES: La Liga 123 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/219562
-#EXTINF:-1,ES: LALIGA TV BAR FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388177
-#EXTINF:-1,ES: LIGA CAMPEONES HEVC
-http://ky-iptv.com:25461/godmode1/godmode1/388179
-#EXTINF:-1,ES-L: LIGA CAMPEONES 1 HEVC
-http://ky-iptv.com:25461/godmode1/godmode1/388180
-#EXTINF:-1,ES: MOVISTAR LALIGA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388185
-#EXTINF:-1,ES: MOVISTAR LALIGA 1 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388187
-#EXTINF:-1,ES: MOVISTAR LALIGA 2 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388189
-#EXTINF:-1,ES: MOVISTAR MULTIDEPORTE HEVC
-http://ky-iptv.com:25461/godmode1/godmode1/388199
-#EXTINF:-1,ES: MOVISTAR DEPORTES1 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388204
-#EXTINF:-1,ES: MOVISTAR DEPORTES+ FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388209
-#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES 2 HD
-http://ky-iptv.com:25461/godmode1/godmode1/388213
-#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES 3 HD
-http://ky-iptv.com:25461/godmode1/godmode1/388214
-#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES 4 HD
-http://ky-iptv.com:25461/godmode1/godmode1/388215
-#EXTINF:-1,ES: MOVISTAR FUTBOL HD
-http://ky-iptv.com:25461/godmode1/godmode1/388220
-#EXTINF:-1,ES: MOVISTAR GOLF FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388224
-#EXTINF:-1,ES: MOVISTAR F1 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388228
-#EXTINF:-1,ES: DAZN 1 HD (EVENTOS)
-http://ky-iptv.com:25461/godmode1/godmode1/388230
-#EXTINF:-1,ES: DAZN 2 HD (EVENTOS)
-http://ky-iptv.com:25461/godmode1/godmode1/388231
-#EXTINF:-1,ES: #VAMOS FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388234
-#EXTINF:-1,ES: GOL FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388238
-#EXTINF:-1,ES: BARCA TV FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388241
-#EXTINF:-1,ES: TELEDEPORTE FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388244
-#EXTINF:-1,ES: EUROSPORT 1 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388248
-#EXTINF:-1,ES: EUROSPORT 2 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388252
-#EXTINF:-1,ES: REAL MADRID TV FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388255
-#EXTINF:-1,ES: ESPORT 3 SD
-http://ky-iptv.com:25461/godmode1/godmode1/388262
-#EXTINF:-1,ES: RED BULL TV FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388264
-#EXTINF:-1,ES: 24 Horas FHD
-http://ky-iptv.com:25461/godmode1/godmode1/219612
-#EXTINF:-1,ES: AXN WHITE FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387926
-#EXTINF:-1,ES: IBERALIA TV
-http://ky-iptv.com:25461/godmode1/godmode1/387949
-#EXTINF:-1,ES: A3 SERIES HD
-http://ky-iptv.com:25461/godmode1/godmode1/387951
-#EXTINF:-1,ES: HOLLYWOOD FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387957
-#EXTINF:-1,ES: MOVISTAR CINEDOC&ROLL FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387970
-#EXTINF:-1,ES: MOVISTAR COMEDIA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387974
-#EXTINF:-1,ES: MOVISTAR DRAMA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387978
-#EXTINF:-1,ES: MOVISTAR ESTRENOS FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387982
-#EXTINF:-1,ES: MOVISTAR SERIES FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387986
-#EXTINF:-1,ES: MOVISTAR SERIESMANIA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387990
-#EXTINF:-1,ES: ALQUILER 1 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387992
-#EXTINF:-1,ES: ALQUILER 2 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387993
-#EXTINF:-1,ES: ALQUILER 3 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387994
-#EXTINF:-1,ES: ALQUILER 4 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387995
-#EXTINF:-1,ES: ALQUILER 5 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387996
-#EXTINF:-1,ES: ALQUILER 6 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387997
-#EXTINF:-1,ES: ALQUILER 7 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387998
-#EXTINF:-1,ES: ALQUILER 8 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387999
-#EXTINF:-1,ES: ALQUILER 9 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388000
-#EXTINF:-1,ES: ALQUILER 10 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388001
-#EXTINF:-1,ES: SYFY FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388010
-#EXTINF:-1,ES: TCM FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388013
-#EXTINF:-1,ES: XTRM FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388021
-#EXTINF:-1,ES: PARAMOUNT CHANNEL
-http://ky-iptv.com:25461/godmode1/godmode1/388023
-#EXTINF:-1,ES: TELEMADRID FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388027
-#EXTINF:-1,ES: SUNDANCE
-http://ky-iptv.com:25461/godmode1/godmode1/388029
-#EXTINF:-1,ES: Movistar Cine N
-http://ky-iptv.com:25461/godmode1/godmode1/388032
-#EXTINF:-1,ES: CINEMA DINAMITA
-http://ky-iptv.com:25461/godmode1/godmode1/388033
-#EXTINF:-1,ES: CLARO CINEMA
-http://ky-iptv.com:25461/godmode1/godmode1/388034
-#EXTINF:-1,ES: FOX CINEMA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388037
-#EXTINF:-1,ES: FOX PREMIUM CLASSICS
-http://ky-iptv.com:25461/godmode1/godmode1/388040
-#EXTINF:-1,ES: GOLDEN FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388054
-#EXTINF:-1,ES: GOLDEN PREMIER FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388056
-#EXTINF:-1,ES: HBO SUBTITULADO FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388073
-#EXTINF:-1,ES: MOVIEPLEX FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388109
-#EXTINF:-1,ES: TVE INTERNACIONAL HD
-http://ky-iptv.com:25461/godmode1/godmode1/388306
-#EXTINF:-1,ES: LA 1 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388309
-#EXTINF:-1,ES: LA 2 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388313
-#EXTINF:-1,ES: TAQUILLA 7 HD
-http://ky-iptv.com:25461/godmode1/godmode1/388316
-#EXTINF:-1,ES: ANTENA 3 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388319
-#EXTINF:-1,ES: CUATRO FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388325
-#EXTINF:-1,ES: TELECINCO FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388329
-#EXTINF:-1,ES: LA SEXTA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388333
-#EXTINF:-1,ES: CGTN EN ESPAL SD
-http://ky-iptv.com:25461/godmode1/godmode1/388339
-#EXTINF:-1,ES: MEGA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388343
-#EXTINF:-1,ES: BE MAD FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388346
-#EXTINF:-1,ES: DKISS SD
-http://ky-iptv.com:25461/godmode1/godmode1/388347
-#EXTINF:-1,ES: DMAX SD
-http://ky-iptv.com:25461/godmode1/godmode1/388348
-#EXTINF:-1,ES: DIVINITY HD
-http://ky-iptv.com:25461/godmode1/godmode1/388350
-#EXTINF:-1,ES: ENERGY HD
-http://ky-iptv.com:25461/godmode1/godmode1/388353
-#EXTINF:-1,ES: NOVA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388360
-#EXTINF:-1,ES: CANAL ODISEA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388364
-#EXTINF:-1,ES: FDF HD
-http://ky-iptv.com:25461/godmode1/godmode1/388367
-#EXTINF:-1,ES: NEOX FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388370
-#EXTINF:-1,ES: TEN
-http://ky-iptv.com:25461/godmode1/godmode1/388372
-#EXTINF:-1,ES: TNT HEVC
-http://ky-iptv.com:25461/godmode1/godmode1/388373
-#EXTINF:-1,ES: CRIMEN INVESTIGACION HD
-http://ky-iptv.com:25461/godmode1/godmode1/388375
-#EXTINF:-1,ES: DISCOVERY CHANNEL FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388379
-#EXTINF:-1,ES: HISTORIA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388383
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388387
-#EXTINF:-1,ES: CANAL ORBE21 HEVC
-http://ky-iptv.com:25461/godmode1/godmode1/388394
-#EXTINF:-1,ES: CANAL SUR ANDALUC SD
-http://ky-iptv.com:25461/godmode1/godmode1/388395
-#EXTINF:-1,ES: COMEDY CENTRAL FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388400
-#EXTINF:-1,ES: CANAL DECASA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388404
-#EXTINF:-1,ES: COSMO FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388412
-#EXTINF:-1,ES: VIAJAR FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388416
-#EXTINF:-1,ES: MOVISTAR TOROS TV FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388420
-#EXTINF:-1,ES: MTV HITS SD
-http://ky-iptv.com:25461/godmode1/godmode1/389069
-#EXTINF:-1,ES: MTV ESPANA HD
-http://ky-iptv.com:25461/godmode1/godmode1/389071
-#EXTINF:-1,ES: MTV ROCKS HD
-http://ky-iptv.com:25461/godmode1/godmode1/389072
-#EXTINF:-1,ES: MTV SD
-http://ky-iptv.com:25461/godmode1/godmode1/389073
-#EXTINF:-1,ES: VH1 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389074
-#EXTINF:-1,ES: SOL MUSIC FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389076
-#EXTINF:-1,ES: MEZZO FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389079
-#EXTINF:-1,ES: MEZZO LIVE HEVC
-http://ky-iptv.com:25461/godmode1/godmode1/389080
-#EXTINF:-1,ES: CLASSICA HD
-http://ky-iptv.com:25461/godmode1/godmode1/389083
-#EXTINF:-1,ES: CALIFORNIA MUSIC CHANNEL FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389085
-#EXTINF:-1,ES: HIT MUSIC CHANNEL SD
-http://ky-iptv.com:25461/godmode1/godmode1/389086
-#EXTINF:-1,ES: BOING HD
-http://ky-iptv.com:25461/godmode1/godmode1/389038
-#EXTINF:-1,ES: CLAN TVE FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389042
-#EXTINF:-1,ES: DISNEY CHANNEL FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389046
-#EXTINF:-1,ES: DISNEY JUNIOR
-http://ky-iptv.com:25461/godmode1/godmode1/389049
-#EXTINF:-1,ES: NICKELODEON FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389054
-#EXTINF:-1,ES: CANAL PANDA
-http://ky-iptv.com:25461/godmode1/godmode1/389059
-#EXTINF:-1,ES: BABY TV HEVC
-http://ky-iptv.com:25461/godmode1/godmode1/389061
-#EXTINF:-1,ES: TV3 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389488
-#EXTINF:-1,ES: CANAL Cocina FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389502
-#EXTINF:-1,ES: DIEZ TV SD
-http://ky-iptv.com:25461/godmode1/godmode1/389505
-#EXTINF:-1,ES: CADENA ELITE TV
-http://ky-iptv.com:25461/godmode1/godmode1/389506
-#EXTINF:-1,ES: CANAL EXTREMADURA TV
-http://ky-iptv.com:25461/godmode1/godmode1/389508
-#EXTINF:-1,ES: MELILLA TV HD
-http://ky-iptv.com:25461/godmode1/godmode1/389514
-#EXTINF:-1,ES: 7RM RADIO TELEVISI MURCIA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389515
-#EXTINF:-1,ES: LLEIDA TV SD
-http://ky-iptv.com:25461/godmode1/godmode1/389519
-#EXTINF:-1,ES: TV GALICIA HD
-http://ky-iptv.com:25461/godmode1/godmode1/389522
-#EXTINF:-1,ES: LEBRIJA TV SD
-http://ky-iptv.com:25461/godmode1/godmode1/389525
-#EXTINF:-1,ES: ALCARRIA TV SD
-http://ky-iptv.com:25461/godmode1/godmode1/389529
-#EXTINF:-1,ES: CANAL COSTA HD
-http://ky-iptv.com:25461/godmode1/godmode1/389535
-#EXTINF:-1,ES: HUESCA TV SD
-http://ky-iptv.com:25461/godmode1/godmode1/389544
-#EXTINF:-1,ES: CANAL 25 BARBASTRO TV HD
-http://ky-iptv.com:25461/godmode1/godmode1/389545
-#EXTINF:-1,ES: LANCELOT TV SD
-http://ky-iptv.com:25461/godmode1/godmode1/389546
-#EXTINF:-1,ES: CASTILLA LA MANCHA MEDIA SD
-http://ky-iptv.com:25461/godmode1/godmode1/389548
-#EXTINF:-1,ES: ETB 1 HD
-http://ky-iptv.com:25461/godmode1/godmode1/389556
-#EXTINF:-1,ES: ETB 2 HD
-http://ky-iptv.com:25461/godmode1/godmode1/389557
-#EXTINF:-1,ES: C33 MADRID HD
-http://ky-iptv.com:25461/godmode1/godmode1/389578
-#EXTINF:-1,ES: CANAL SUR HD
-http://ky-iptv.com:25461/godmode1/godmode1/389585
-#EXTINF:-1,ES: DISTRITO TV SD
-http://ky-iptv.com:25461/godmode1/godmode1/389593
-#EXTINF:-1,ES: FOX NEWS HEVC
-http://ky-iptv.com:25461/godmode1/godmode1/389601
-#EXTINF:-1,ES: HASH0 FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389606
-#EXTINF:-1,ES: LA MEGA MUNDIAL HD
-http://ky-iptv.com:25461/godmode1/godmode1/389608
-#EXTINF:-1,ES: RTV CEUTA HD
-http://ky-iptv.com:25461/godmode1/godmode1/389626
-#EXTINF:-1,ES: SOLIDARIA TV HD
-http://ky-iptv.com:25461/godmode1/godmode1/389631
-#EXTINF:-1,ES: TELEVISIDE GIRONA SD
-http://ky-iptv.com:25461/godmode1/godmode1/389639
-#EXTINF:-1,ES: TRECE SD
-http://ky-iptv.com:25461/godmode1/godmode1/389648
-#EXTINF:-1,ES: Cultura 24 TV
-http://ky-iptv.com:25461/godmode1/godmode1/389650
-#EXTINF:-1,ES: PARLAMENTO SD
-http://ky-iptv.com:25461/godmode1/godmode1/389670
-#EXTINF:-1,ES: AMC FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387918
-#EXTINF:-1,ES: AXN FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387922
-#EXTINF:-1,ES: CAZA Y PESCA FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387944
-#EXTINF:-1,ES: IMAS TV SD
-http://ky-iptv.com:25461/godmode1/godmode1/389549
-#EXTINF:-1,ES: DHE FHD
-http://ky-iptv.com:25461/godmode1/godmode1/388036
-#EXTINF:-1,ES: FOX LIFE FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387940
-#EXTINF:-1,ES: PORTALFOXMIX SD
-http://ky-iptv.com:25461/godmode1/godmode1/389619
-#EXTINF:-1,ES: Canaria 1
-http://ky-iptv.com:25461/godmode1/godmode1/389640
-#EXTINF:-1,ES: RM7 SD
-http://ky-iptv.com:25461/godmode1/godmode1/389625
-#EXTINF:-1,ES: NICK JR FHD
-http://ky-iptv.com:25461/godmode1/godmode1/757975
-#EXTINF:-1,ES: ACCION HD
-http://ky-iptv.com:25461/godmode1/godmode1/219461
-#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES 5 HD
-http://ky-iptv.com:25461/godmode1/godmode1/388216
-#EXTINF:-1,ES: CLASSICA EUROPE SD
-http://ky-iptv.com:25461/godmode1/godmode1/389081
-#EXTINF:-1,ES: DISNEY+ HD
-http://ky-iptv.com:25461/godmode1/godmode1/389036
-#EXTINF:-1,ES: ATRESERIES FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389575
-#EXTINF:-1,ES: Barcelona FHD
-http://ky-iptv.com:25461/godmode1/godmode1/389495
-#EXTINF:-1,ES: 33 SD
-http://ky-iptv.com:25461/godmode1/godmode1/389568
-#EXTINF:-1,ES: TV CENTRO ANDALUCIA SD
-http://ky-iptv.com:25461/godmode1/godmode1/389563
-#EXTINF:-1,ES: FOX HD
-http://ky-iptv.com:25461/godmode1/godmode1/1069230
-#EXTINF:-1,ES: BLAZE
-http://ky-iptv.com:25461/godmode1/godmode1/1069197
-#EXTINF:-1,ES: ARAGON
-http://ky-iptv.com:25461/godmode1/godmode1/1069190
-#EXTINF:-1,ES: NAT GEO WILD FHD
-http://ky-iptv.com:25461/godmode1/godmode1/1069180
-#EXTINF:-1,ES: CALLE 13 HD
-http://ky-iptv.com:25461/godmode1/godmode1/1069174
-#EXTINF:-1,ES: CANAL DIOCESANO HD
-http://ky-iptv.com:25461/godmode1/godmode1/389550
-#EXTINF:-1,ES: FOX SPORTS 2 HD
-http://ky-iptv.com:25461/godmode1/godmode1/1124473
-#EXTINF:-1,ES: Fox Sports 3 Sur HD
-http://ky-iptv.com:25461/godmode1/godmode1/1124474
-#EXTINF:-1,ES: History Espanol
-http://ky-iptv.com:25461/godmode1/godmode1/1162475
-#EXTINF:-1,ES: History 2
-http://ky-iptv.com:25461/godmode1/godmode1/1162476
-#EXTINF:-1,ES: DARK FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387933
-#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES 8 HD
-http://ky-iptv.com:25461/godmode1/godmode1/388219
-#EXTINF:-1,ES: MOTOGP HD
-http://ky-iptv.com:25461/godmode1/godmode1/389613
-#EXTINF:-1,ES: CANAL MALAGA SD
-http://ky-iptv.com:25461/godmode1/godmode1/389540
-#EXTINF:-1,ES: RTP ASTURIAS SD
-http://ky-iptv.com:25461/godmode1/godmode1/389642
-#EXTINF:-1,ES: EL TORO TV SD
-http://ky-iptv.com:25461/godmode1/godmode1/389596
-#EXTINF:-1,ES: A PUNT HD
-http://ky-iptv.com:25461/godmode1/godmode1/389531
-#EXTINF:-1,ES: SOMOS FHD
-http://ky-iptv.com:25461/godmode1/godmode1/387948
-#EXTINF:-1,ES: NON STOP PEOPLE
-http://ky-iptv.com:25461/godmode1/godmode1/219432
+#EXTINF:-1,::::::::::::::: MOVIESTAR  :::::::::::::::
+http://latinoamericatv.vip:8080/Alexito/Alexito/53653
+#EXTINF:-1,#0
+http://latinoamericatv.vip:8080/Alexito/Alexito/53654
+#EXTINF:-1,# HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53655
+#EXTINF:-1,#0 FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53656
+#EXTINF:-1,::::::::::::::: CINE :::::::::::::::
+http://latinoamericatv.vip:8080/Alexito/Alexito/53657
+#EXTINF:-1,MOVISTAR  ESTRENOS
+http://latinoamericatv.vip:8080/Alexito/Alexito/53658
+#EXTINF:-1,MOVISTAR ESTRENOS HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53659
+#EXTINF:-1,MOVISTAR  ESTRENOS FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53660
+#EXTINF:-1,MOVISTAR  ACCION
+http://latinoamericatv.vip:8080/Alexito/Alexito/53661
+#EXTINF:-1,MOVISTAR ACCION HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53662
+#EXTINF:-1,MOVISTAR  ACCION FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53663
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53664
+#EXTINF:-1,MOVISTAR  COMEDIA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53665
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53666
+#EXTINF:-1,MOVISTAR  COMEDIA FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53667
+#EXTINF:-1,COMEDY CENTRAL
+http://latinoamericatv.vip:8080/Alexito/Alexito/53668
+#EXTINF:-1,COMEDY CENTRAL HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53669
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53670
+#EXTINF:-1,MOVISTAR  CINE ESPAÑOL
+http://latinoamericatv.vip:8080/Alexito/Alexito/53671
+#EXTINF:-1,MOVISTAR CINE ESPAÑOL FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53672
+#EXTINF:-1,MOVISTAR DISNEY +
+http://latinoamericatv.vip:8080/Alexito/Alexito/53673
+#EXTINF:-1,DISNEY +
+http://latinoamericatv.vip:8080/Alexito/Alexito/53674
+#EXTINF:-1,DISNEY + HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53675
+#EXTINF:-1,DISNEY + FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53676
+#EXTINF:-1,MOVISTAR CINEDOC&ROLL HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53677
+#EXTINF:-1,MOVISTAR CINEDOC&ROLL FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53678
+#EXTINF:-1,MOVISTAR DRAMA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53679
+#EXTINF:-1,LA 1 HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53680
+#EXTINF:-1,LA 1 FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53681
+#EXTINF:-1,COSMO
+http://latinoamericatv.vip:8080/Alexito/Alexito/53682
+#EXTINF:-1,COSMOS HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53683
+#EXTINF:-1,COSMO FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53684
+#EXTINF:-1,SYFY
+http://latinoamericatv.vip:8080/Alexito/Alexito/53685
+#EXTINF:-1,SYFY HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53686
+#EXTINF:-1,SYFY FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53687
+#EXTINF:-1,AMC
+http://latinoamericatv.vip:8080/Alexito/Alexito/53688
+#EXTINF:-1,AMC FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53689
+#EXTINF:-1,DARK
+http://latinoamericatv.vip:8080/Alexito/Alexito/53690
+#EXTINF:-1,SOMOS
+http://latinoamericatv.vip:8080/Alexito/Alexito/53691
+#EXTINF:-1,XTRM HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53692
+#EXTINF:-1,XTRM FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53693
+#EXTINF:-1,SUNDANCE TV
+http://latinoamericatv.vip:8080/Alexito/Alexito/53694
+#EXTINF:-1,SUNDANCE HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53695
+#EXTINF:-1,SUNDANCE HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53696
+#EXTINF:-1,::::::::::::::: ALQUILER :::::::::::::::
+http://latinoamericatv.vip:8080/Alexito/Alexito/53697
+#EXTINF:-1,ALQUILER 1: UN AMOR SIN FIN
+http://latinoamericatv.vip:8080/Alexito/Alexito/53698
+#EXTINF:-1,ALQUILER 2: RETRATO DE UN AMOR
+http://latinoamericatv.vip:8080/Alexito/Alexito/53699
+#EXTINF:-1,ALQUILER 3: LA LEY DE LA CALLE
+http://latinoamericatv.vip:8080/Alexito/Alexito/53700
+#EXTINF:-1,ALQUILER 4: HISTORIAS LAMENTABLES
+http://latinoamericatv.vip:8080/Alexito/Alexito/53701
+#EXTINF:-1,ALQUILER 5: MATAR A SANTA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53702
+#EXTINF:-1,ALQUILER 6: BOB ESPONJA UN HEROE AL RESCATE
+http://latinoamericatv.vip:8080/Alexito/Alexito/53703
+#EXTINF:-1,ALQUILER 7: SUPER AGENTE MAKEY
+http://latinoamericatv.vip:8080/Alexito/Alexito/53704
+#EXTINF:-1,ALQUILER 8: FAMILIA A LA FUERZA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53705
+#EXTINF:-1,ALQUILER 9: BEN 10 CONTRA EL UNIVERSO : LA PELICULA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53706
+#EXTINF:-1,ALQUILER 10: ERASE UNA VEZ UN MUÑECO DE NIEVE
+http://latinoamericatv.vip:8080/Alexito/Alexito/53707
+#EXTINF:-1,ALQUILER 11: THE FINAL SCREAM
+http://latinoamericatv.vip:8080/Alexito/Alexito/53708
+#EXTINF:-1,ALQUILER 12: MAS ALLA DE LA LUNA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53709
+#EXTINF:-1,ALQUILER 13: MULAN
+http://latinoamericatv.vip:8080/Alexito/Alexito/53710
+#EXTINF:-1,ALQUILER 14:  PADRE NO HAY MAS QUE UNO 2
+http://latinoamericatv.vip:8080/Alexito/Alexito/53711
+#EXTINF:-1,::::::::::::::: SERIES Y ENTRETENIMIENTO :::::::::::::::
+http://latinoamericatv.vip:8080/Alexito/Alexito/53712
+#EXTINF:-1,MOVISTAR  SERIESMANIA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53713
+#EXTINF:-1,MOVISTAR SERIESMANIA HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53714
+#EXTINF:-1,MOVISTAR  SERIESMANIA FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53715
+#EXTINF:-1,MOVISTAR  SERIES
+http://latinoamericatv.vip:8080/Alexito/Alexito/53716
+#EXTINF:-1,MOVISTAR SERIES HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53717
+#EXTINF:-1,MOVISTAR  SERIES FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53718
+#EXTINF:-1,AXN White
+http://latinoamericatv.vip:8080/Alexito/Alexito/53719
+#EXTINF:-1,AXN WHITE HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53720
+#EXTINF:-1,AXN WHITE FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53721
+#EXTINF:-1,AXN
+http://latinoamericatv.vip:8080/Alexito/Alexito/53722
+#EXTINF:-1,AXN HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53723
+#EXTINF:-1,AXN FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53724
+#EXTINF:-1,CALLE 13
+http://latinoamericatv.vip:8080/Alexito/Alexito/53725
+#EXTINF:-1,CALLE 13 HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53726
+#EXTINF:-1,CALLE 13 FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53727
+#EXTINF:-1,TNT
+http://latinoamericatv.vip:8080/Alexito/Alexito/53728
+#EXTINF:-1,TNT HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53729
+#EXTINF:-1,TNT FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53730
+#EXTINF:-1,TCM
+http://latinoamericatv.vip:8080/Alexito/Alexito/53731
+#EXTINF:-1,TCM HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53732
+#EXTINF:-1,TCM FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53733
+#EXTINF:-1,FOX
+http://latinoamericatv.vip:8080/Alexito/Alexito/53734
+#EXTINF:-1,FOX HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53735
+#EXTINF:-1,FOX FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53736
+#EXTINF:-1,FOX LIFE
+http://latinoamericatv.vip:8080/Alexito/Alexito/53737
+#EXTINF:-1,FOX LIFE HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53738
+#EXTINF:-1,FOX Life FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53739
+#EXTINF:-1,HOLLYWOOD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53740
+#EXTINF:-1,HOLLYWOOD HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53741
+#EXTINF:-1,HOLLYWOOD FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53742
+#EXTINF:-1,::::::::::::::: DEPORTES :::::::::::::::
+http://latinoamericatv.vip:8080/Alexito/Alexito/53743
+#EXTINF:-1,MOVISTAR VAMOS
+http://latinoamericatv.vip:8080/Alexito/Alexito/53744
+#EXTINF:-1,MOVISTAR VAMOS HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53745
+#EXTINF:-1,MOVISTAR  VAMOS FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53746
+#EXTINF:-1,MOVISTAR DEPORTES HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53747
+#EXTINF:-1,MOVISTAR DEPORTES FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53748
+#EXTINF:-1,MOVISTAR  DEPORTES 1
+http://latinoamericatv.vip:8080/Alexito/Alexito/53749
+#EXTINF:-1,MOVISTAR DEPORTES 1 FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53750
+#EXTINF:-1,MOVISTAR DEPORTES 1
+http://latinoamericatv.vip:8080/Alexito/Alexito/53751
+#EXTINF:-1,MOVISTAR DEPORTES 2
+http://latinoamericatv.vip:8080/Alexito/Alexito/53752
+#EXTINF:-1,MOVISTAR DEPORTES 3
+http://latinoamericatv.vip:8080/Alexito/Alexito/53753
+#EXTINF:-1,MOVISTAR DEPORTES 4
+http://latinoamericatv.vip:8080/Alexito/Alexito/53754
+#EXTINF:-1,MOVISTAR DEPORTES 5
+http://latinoamericatv.vip:8080/Alexito/Alexito/53755
+#EXTINF:-1,EUROSPORT
+http://latinoamericatv.vip:8080/Alexito/Alexito/53756
+#EXTINF:-1,EUROSPORT FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53757
+#EXTINF:-1,EUROSPORT 2 FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53758
+#EXTINF:-1,MULTIFUTBOL 1
+http://latinoamericatv.vip:8080/Alexito/Alexito/53759
+#EXTINF:-1,MULTIFUTBOL 2
+http://latinoamericatv.vip:8080/Alexito/Alexito/53760
+#EXTINF:-1,MULTIFUTBOL 3
+http://latinoamericatv.vip:8080/Alexito/Alexito/53761
+#EXTINF:-1,MULTIFUTBOL 4
+http://latinoamericatv.vip:8080/Alexito/Alexito/53762
+#EXTINF:-1,MOVISTAR  LA LIGA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53763
+#EXTINF:-1,MOVISTAR LA LIGA HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53764
+#EXTINF:-1,MOVISTAR  LA LIGA FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53765
+#EXTINF:-1,MOVISTAR  LA LIGA FHD OPCION B
+http://latinoamericatv.vip:8080/Alexito/Alexito/53766
+#EXTINF:-1,MOVISTAR LA LIGA 2K
+http://latinoamericatv.vip:8080/Alexito/Alexito/53767
+#EXTINF:-1,MOVISTAR LA LIGA UHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53768
+#EXTINF:-1,MOVISTAR  LA LIGA 1 FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53769
+#EXTINF:-1,MOVISTAR  LA LIGA 2 FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53770
+#EXTINF:-1,MOVISTAR  LA LIGA 3
+http://latinoamericatv.vip:8080/Alexito/Alexito/53771
+#EXTINF:-1,MOVISTAR  LA LIGA 4
+http://latinoamericatv.vip:8080/Alexito/Alexito/53772
+#EXTINF:-1,MOVISTAR  LA LIGA 5
+http://latinoamericatv.vip:8080/Alexito/Alexito/53773
+#EXTINF:-1,MOVISTAR  LA LIGA 6
+http://latinoamericatv.vip:8080/Alexito/Alexito/53774
+#EXTINF:-1,MOVISTAR LIGA CAMPEONES
+http://latinoamericatv.vip:8080/Alexito/Alexito/53775
+#EXTINF:-1,MOVISTAR LIGA CAMPEONES HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53776
+#EXTINF:-1,MOVISTAR LIGA CAMPEONES FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53777
+#EXTINF:-1,MOVISTAR LIGA CAMPEONES FHD OPCION B
+http://latinoamericatv.vip:8080/Alexito/Alexito/53778
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES UHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53779
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 1 SD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53780
+#EXTINF:-1,MOVISTAR LIGA CAMPEONES 1 HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53781
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 1 FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53782
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2 SD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53783
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2 FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53784
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 3
+http://latinoamericatv.vip:8080/Alexito/Alexito/53785
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 4
+http://latinoamericatv.vip:8080/Alexito/Alexito/53786
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 5
+http://latinoamericatv.vip:8080/Alexito/Alexito/53787
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 6
+http://latinoamericatv.vip:8080/Alexito/Alexito/53788
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 7
+http://latinoamericatv.vip:8080/Alexito/Alexito/53789
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 8
+http://latinoamericatv.vip:8080/Alexito/Alexito/53790
+#EXTINF:-1,LIGATV BAR FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53791
+#EXTINF:-1,GOL TV
+http://latinoamericatv.vip:8080/Alexito/Alexito/53792
+#EXTINF:-1,GOL TV FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53793
+#EXTINF:-1,TELEDEPORTES
+http://latinoamericatv.vip:8080/Alexito/Alexito/53794
+#EXTINF:-1,U-BEAT FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53795
+#EXTINF:-1,BARCA TV
+http://latinoamericatv.vip:8080/Alexito/Alexito/53796
+#EXTINF:-1,BARCA TV FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53797
+#EXTINF:-1,REAL MADRID TV
+http://latinoamericatv.vip:8080/Alexito/Alexito/53798
+#EXTINF:-1,MOVISTAR  F1
+http://latinoamericatv.vip:8080/Alexito/Alexito/53799
+#EXTINF:-1,MOVISTAR F1 HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53800
+#EXTINF:-1,MOVISTAR F1 FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53801
+#EXTINF:-1,MOVISTAR F1 UHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53802
+#EXTINF:-1,MOVISTAR  GOLF
+http://latinoamericatv.vip:8080/Alexito/Alexito/53803
+#EXTINF:-1,MOVISTAR  GOLF FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53804
+#EXTINF:-1,DAZN MOVISTAR 1
+http://latinoamericatv.vip:8080/Alexito/Alexito/53805
+#EXTINF:-1,DAZN MOVISTAR HD 1
+http://latinoamericatv.vip:8080/Alexito/Alexito/53806
+#EXTINF:-1,DAZN MOVISTAR 2
+http://latinoamericatv.vip:8080/Alexito/Alexito/53807
+#EXTINF:-1,DAZN MOVISTAR HD 2
+http://latinoamericatv.vip:8080/Alexito/Alexito/53808
+#EXTINF:-1,DAZN Y FOOTTERS 3
+http://latinoamericatv.vip:8080/Alexito/Alexito/53809
+#EXTINF:-1,DAZN Y FOOTTERS 4
+http://latinoamericatv.vip:8080/Alexito/Alexito/53810
+#EXTINF:-1,DAZN Y FOOTTERS 5
+http://latinoamericatv.vip:8080/Alexito/Alexito/53811
+#EXTINF:-1,DAZN VIP 6 HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53812
+#EXTINF:-1,DAZN VIP 7 HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53813
+#EXTINF:-1,DAZN VIP 8 HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53814
+#EXTINF:-1,::::::::::::::: LIFE STYLE :::::::::::::::
+http://latinoamericatv.vip:8080/Alexito/Alexito/53815
+#EXTINF:-1,CANAL COCINA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53816
+#EXTINF:-1,CANAL COCINA HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53817
+#EXTINF:-1,CANAL COCINA FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53818
+#EXTINF:-1,CANAL COCINA 4K
+http://latinoamericatv.vip:8080/Alexito/Alexito/53819
+#EXTINF:-1,CANAL DECASA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53820
+#EXTINF:-1,CANAL DECASA HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53821
+#EXTINF:-1,CANAL DECASA FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53822
+#EXTINF:-1,::::::::::::::: DOCUMENTALES :::::::::::::::
+http://latinoamericatv.vip:8080/Alexito/Alexito/53823
+#EXTINF:-1,HISTORIA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53824
+#EXTINF:-1,HISTORIA HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53825
+#EXTINF:-1,HISTORIA FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53826
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://latinoamericatv.vip:8080/Alexito/Alexito/53827
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53828
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53829
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53830
+#EXTINF:-1,NATIONAL GEOGRAFIC WILD HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53831
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53832
+#EXTINF:-1,VIAJAR
+http://latinoamericatv.vip:8080/Alexito/Alexito/53833
+#EXTINF:-1,VIAJAR HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53834
+#EXTINF:-1,VIAJAR FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53835
+#EXTINF:-1,DISCOVERY CHANNEL
+http://latinoamericatv.vip:8080/Alexito/Alexito/53836
+#EXTINF:-1,DISCOVERY HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53837
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53838
+#EXTINF:-1,DMAX
+http://latinoamericatv.vip:8080/Alexito/Alexito/53839
+#EXTINF:-1,ODISEA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53840
+#EXTINF:-1,ODISEA HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53841
+#EXTINF:-1,ODISEA FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53842
+#EXTINF:-1,ODISEA 4K
+http://latinoamericatv.vip:8080/Alexito/Alexito/53843
+#EXTINF:-1,BLAZE
+http://latinoamericatv.vip:8080/Alexito/Alexito/53844
+#EXTINF:-1,BLAZE HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53845
+#EXTINF:-1,BLAZE FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53846
+#EXTINF:-1,MEZZO LIVE FULL HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53847
+#EXTINF:-1,::::::::::::::: AFICIONES :::::::::::::::
+http://latinoamericatv.vip:8080/Alexito/Alexito/53848
+#EXTINF:-1,TOROS TV
+http://latinoamericatv.vip:8080/Alexito/Alexito/53849
+#EXTINF:-1,TOROS HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53850
+#EXTINF:-1,TOROS TV FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53851
+#EXTINF:-1,CAZA Y PESCA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53852
+#EXTINF:-1,CAZA Y PESCA FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53853
+#EXTINF:-1,IBERALIA TV
+http://latinoamericatv.vip:8080/Alexito/Alexito/53854
+#EXTINF:-1,CAZAVISION
+http://latinoamericatv.vip:8080/Alexito/Alexito/53855
+#EXTINF:-1,CAZAVISION FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53856
+#EXTINF:-1,::::::::::::::: INFANTILES :::::::::::::::
+http://latinoamericatv.vip:8080/Alexito/Alexito/53857
+#EXTINF:-1,DISNEY CHANNEL HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53858
+#EXTINF:-1,NICKELODEON HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53859
+#EXTINF:-1,CLAN HD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53860
+#EXTINF:-1,DISNEY CHANNEL
+http://latinoamericatv.vip:8080/Alexito/Alexito/53861
+#EXTINF:-1,DISNEY JUNIOR
+http://latinoamericatv.vip:8080/Alexito/Alexito/53862
+#EXTINF:-1,DISNEY XD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53863
+#EXTINF:-1,NICK JUNIOR
+http://latinoamericatv.vip:8080/Alexito/Alexito/53864
+#EXTINF:-1,CLAN TVE
+http://latinoamericatv.vip:8080/Alexito/Alexito/53865
+#EXTINF:-1,CANAL PANDA
+http://latinoamericatv.vip:8080/Alexito/Alexito/53866
+#EXTINF:-1,MTV
+http://latinoamericatv.vip:8080/Alexito/Alexito/53867
+#EXTINF:-1,NICKELODEON FHD
+http://latinoamericatv.vip:8080/Alexito/Alexito/53868
+#EXTINF:-1,CANAL ORBE 21
+http://latinoamericatv.vip:8080/Alexito/Alexito/53869
+#EXTINF:-1,USA | UFC FIGHT PASS.
+http://latinoamericatv.vip:8080/Alexito/Alexito/53888
+#EXTINF:-1,USA | UFC
+http://latinoamericatv.vip:8080/Alexito/Alexito/53889
+#EXTINF:-1,USA | WWE NETWORK
+http://latinoamericatv.vip:8080/Alexito/Alexito/53890
+#EXTINF:-1,USA | WWE
+http://latinoamericatv.vip:8080/Alexito/Alexito/53891
